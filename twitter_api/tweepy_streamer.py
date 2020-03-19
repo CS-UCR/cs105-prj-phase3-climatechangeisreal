@@ -124,7 +124,7 @@ if __name__ == '__main__':
     api = twitter_client.get_twitter_client_api()
 
     #tweets = api.user_timeline(screen_name="realDonaldTrump", count=20)
-    tweets = api.search(q="climate%20change%20coronavirus", count=10)
+    tweets = api.search(q="climate%20change%20coronavirus", count=200)
     with open("tweets.txt", "w") as outfile:
         print(tweets, file=outfile)
 
@@ -145,5 +145,6 @@ if __name__ == '__main__':
 
     df = tweet_analyzer.tweets_to_data_frame(tweets)
     #file = open("tweets.txt")
-
+    with open("tweets.csv", "w") as outfile:
+        print(df, file=outfile)
     print(df.head(10))
