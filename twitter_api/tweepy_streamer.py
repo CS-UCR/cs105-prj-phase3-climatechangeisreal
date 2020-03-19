@@ -69,7 +69,7 @@ class TwitterStreamer():
         stream = Stream(auth, listener)
 
         # This line filter Twitter Streams to capture data by the keywords:
-        stream.filter(track=hash_tag_list)
+        #stream.filter(track=hash_tag_list)
 
 
 # # # # TWITTER STREAM LISTENER # # # #
@@ -125,11 +125,25 @@ if __name__ == '__main__':
 
     #tweets = api.user_timeline(screen_name="realDonaldTrump", count=20)
     tweets = api.search(q="climate%20change%20coronavirus", count=10)
+    with open("tweets.txt", "w") as outfile:
+        print(tweets, file=outfile)
+
+
+    #file = open("tweets.txt","w")
+    #file.write(tweets)
+    #file.close()
+
     #print(tweets)
+    #fetched_tweets_filename = "tweets.txt"
+    #hash_tag_list = ["climate change corona virus"]
+
+    #twitter_streamer = TwitterStreamer()
+    #twitter_streamer.stream_tweets(fetched_tweets_filename, hash_tag_list)
 
     #print(dir(tweets[0])) # what we can extract (columns)
     #print(tweets[0].retweet_count)
 
     df = tweet_analyzer.tweets_to_data_frame(tweets)
+    #file = open("tweets.txt")
 
     print(df.head(10))
