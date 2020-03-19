@@ -125,8 +125,9 @@ if __name__ == '__main__':
 
     #tweets = api.user_timeline(screen_name="realDonaldTrump", count=20)
     tweets = api.search(q="climate%20change%20coronavirus", count=200)
-    with open("tweets.txt", "w") as outfile:
-        print(tweets, file=outfile)
+    with open("tweetsday2.txt", "w") as outfile:
+         print(tweets, file=outfile)
+         outfile.close()
 
 
     #file = open("tweets.txt","w")
@@ -140,11 +141,11 @@ if __name__ == '__main__':
     #twitter_streamer = TwitterStreamer()
     #twitter_streamer.stream_tweets(fetched_tweets_filename, hash_tag_list)
 
-    #print(dir(tweets[0])) # what we can extract (columns)
+    print(dir(tweets[0])) # what we can extract (columns)
     #print(tweets[0].retweet_count)
 
     df = tweet_analyzer.tweets_to_data_frame(tweets)
     #file = open("tweets.txt")
-    with open("tweets.csv", "w") as outfile:
-        print(df, file=outfile)
+    # with open("tweets.csv", "w") as outfile:
+    #     print(df, file=outfile)
     print(df.head(10))
