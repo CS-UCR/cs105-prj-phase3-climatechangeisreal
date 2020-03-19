@@ -1,0 +1,2 @@
+scrapy crawl climates -o climates.csv
+// runs scaper and outputs data to csv file

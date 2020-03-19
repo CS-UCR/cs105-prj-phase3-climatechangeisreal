@@ -1,0 +1,515 @@
+Country,Temperature,Location,Date
+"<a href=""/wiki/Algeria"" title=""Algeria"">Algeria</a>","<td>51.3 °C (124.3 °F)
+</td>","<a href=""/wiki/El_Bayadh"" title=""El Bayadh"">El Bayadh</a>,<a href=""/wiki/El_Bayadh_Province"" title=""El Bayadh Province"">El Bayadh Province</a>,<a href=""/wiki/Ouargla"" title=""Ouargla"">Ouargla</a>,<a href=""/wiki/Ouargla_Province"" title=""Ouargla Province"">Ouargla Province</a>","<span data-sort-value=""000000001979-09-02-0000"" style=""white-space:nowrap"">2 September 1979</span>,<span data-sort-value=""000000002018-07-05-0000"" style=""white-space:nowrap"">5 July 2018</span>"
+"<a href=""/wiki/Botswana"" title=""Botswana"">Botswana</a>","<td>44.0 °C (111.2 °F)
+</td>","<a href=""/wiki/Maun,_Botswana"" title=""Maun, Botswana"">Maun</a>","<span data-sort-value=""000000002016-01-07-0000"" style=""white-space:nowrap"">7 January 2016</span>"
+"<a href=""/wiki/Burkina_Faso"" title=""Burkina Faso"">Burkina Faso</a>","<td>47.2 °C (117.0 °F)
+</td>","<a href=""/wiki/Dori,_Burkina_Faso"" title=""Dori, Burkina Faso"">Dori</a>","<span data-sort-value=""000000001984-01-01-0000"" style=""white-space:nowrap"">1984</span>"
+"<a href=""/wiki/Chad"" title=""Chad"">Chad</a>","<td>47.6 °C (117.7 °F)
+</td>","<a href=""/wiki/Faya-Largeau"" title=""Faya-Largeau"">Faya-Largeau</a>","<span data-sort-value=""000000002010-06-22-0000"" style=""white-space:nowrap"">22 June 2010</span>"
+"<a href=""/wiki/Comoros"" title=""Comoros"">Comoros</a>","<td>36.0 °C (96.8 °F)
+</td>","<a href=""/wiki/Prince_Said_Ibrahim_International_Airport"" title=""Prince Said Ibrahim International Airport"">Hahaya International Airport</a>","<span data-sort-value=""000000002017-11-15-0000"" style=""white-space:nowrap"">15 November 2017</span>"
+"<a href=""/wiki/Eswatini"" title=""Eswatini"">Eswatini (Swaziland)</a>","<td>47.4 °C (117.3 °F)
+</td>","<a href=""/wiki/Lavumisa"" title=""Lavumisa"">Lavumisa</a>",
+"<a href=""/wiki/Ghana"" title=""Ghana"">Ghana</a>","<td>43.8 °C (110.8 °F)
+</td>","<a href=""/wiki/Navrongo"" title=""Navrongo"">Navrongo</a>","<span data-sort-value=""000000002017-03-26-0000"" style=""white-space:nowrap"">26 March 2017</span>"
+"<a href=""/wiki/Guinea"" title=""Guinea"">Guinea</a>","<td>45 °C (113 °F)
+</td>","<a href=""/wiki/Koundara"" title=""Koundara"">Koundara</a>,<a href=""/wiki/Bok%C3%A9_Region"" title=""Boké Region"">Boké Region</a>","<span data-sort-value=""000000002017-03-29-0000"" style=""white-space:nowrap"">29 March 2017</span>"
+"<a href=""/wiki/Morocco"" title=""Morocco"">Morocco</a>,<a href=""/wiki/French_protectorate_in_Morocco"" title=""French protectorate in Morocco"">French protectorate in Morocco</a>","<td>51.7 °C (125.1 °F)
+</td>","<a href=""/wiki/Agadir"" title=""Agadir"">Agadir</a>","<span data-sort-value=""000000001940-08-19-0000"" style=""white-space:nowrap"">19 August 1940</span>"
+"<a href=""/wiki/Niger"" title=""Niger"">Niger</a>","<td>49.5 °C (121.1 °F)
+</td>","<a href=""/wiki/Diffa"" title=""Diffa"">Diffa</a>","<span data-sort-value=""000000001978-09-07-0000"" style=""white-space:nowrap"">7 September 1978</span>"
+"<a href=""/wiki/Nigeria"" title=""Nigeria"">Nigeria</a>","<td>46.4 °C (115.5 °F)
+</td>","<a href=""/wiki/Yola,_Nigeria"" class=""mw-redirect"" title=""Yola, Nigeria"">Yola</a>","<span data-sort-value=""000000002010-04-03-0000"" style=""white-space:nowrap"">3 April 2010</span>"
+"<a href=""/wiki/R%C3%A9union"" title=""Réunion"">Réunion</a>","<td>36.9 °C (98.4 °F)
+</td>","<a href=""/wiki/Le_Port,_R%C3%A9union"" title=""Le Port, Réunion"">Le Port</a>","<span data-sort-value=""000000002004-03-06-0000"" style=""white-space:nowrap"">6 March 2004</span>"
+"<a href=""/wiki/South_Africa"" title=""South Africa"">South Africa</a>,<a href=""/wiki/Union_of_South_Africa"" title=""Union of South Africa"">Union of South Africa</a>","<td>50 °C (122 °F)
+</td>","<a href=""/w/index.php?title=Dunbrody,_Eastern_Cape&amp;action=edit&amp;redlink=1"" class=""new"" title=""Dunbrody, Eastern Cape (page does not exist)"">Dunbrody</a>,<a href=""/wiki/Eastern_Cape"" title=""Eastern Cape"">Eastern Cape</a>","<span data-sort-value=""000000001918-11-03-0000"" style=""white-space:nowrap"">3 November 1918</span>"
+"<a href=""/wiki/Sudan"" title=""Sudan"">Sudan</a>","<td>49.7 °C (121.5 °F)
+</td>","<a href=""/wiki/Dongola"" title=""Dongola"">Dongola</a>","<span data-sort-value=""000000002010-06-25-0000"" style=""white-space:nowrap"">25 June 2010</span>"
+"<a href=""/wiki/Tunisia"" title=""Tunisia"">Tunisia</a>,<a href=""/wiki/French_protectorate_of_Tunisia"" title=""French protectorate of Tunisia"">French protectorate of Tunisia</a>","<td><i><b>55 °C (131 °F)</b></i>
+</td>","<a href=""/wiki/Kebili"" title=""Kebili"">Kebili</a>","<span data-sort-value=""000000001931-07-07-0000"" style=""white-space:nowrap"">7 July 1931</span>"
+"<a href=""/wiki/Western_Sahara"" title=""Western Sahara"">Western Sahara</a>,<a href=""/wiki/Spanish_Sahara"" title=""Spanish Sahara"">Spanish Sahara</a>","<td>50.7 °C (123.3 °F)
+</td>","<a href=""/wiki/Semara"" class=""mw-redirect"" title=""Semara"">Semara</a>","<span data-sort-value=""000000001961-07-13-0000"" style=""white-space:nowrap"">13 July 1961</span>"
+"<a href=""/wiki/Zambia"" title=""Zambia"">Zambia</a>","<td>42.4 °C (108.3 °F)
+</td>","<a href=""/wiki/Mfuwe"" title=""Mfuwe"">Mfuwe</a>,<a href=""/wiki/Eastern_Province,_Zambia"" title=""Eastern Province, Zambia"">Eastern Province</a>","<span data-sort-value=""000000002010-10-13-0000"" style=""white-space:nowrap"">13 October 2010</span>"
+"<a href=""/wiki/Antarctica"" title=""Antarctica"">Antarctica</a>","<td><i><b>20.7 °C (69.3 °F)</b></i>
+</td>","<a href=""/wiki/Seymour_Island"" title=""Seymour Island"">Seymour Island</a>,<a href=""/wiki/James_Ross_Island_group"" title=""James Ross Island group"">James Ross Island group</a>","<span data-sort-value=""000000002020-02-09-0000"" style=""white-space:nowrap"">9 February 2020</span>"
+"<a href=""/wiki/Antarctica"" title=""Antarctica"">Antarctica</a>","<td>18.3 °C (64.9 °F)
+</td>","<a href=""/wiki/Esperanza_Base"" title=""Esperanza Base"">Esperanza Base</a>,<a href=""/wiki/Trinity_Peninsula"" title=""Trinity Peninsula"">Trinity Peninsula</a>","<span data-sort-value=""000000002020-02-06-0000"" style=""white-space:nowrap"">6 February 2020</span>"
+"<a href=""/wiki/Antarctica"" title=""Antarctica"">Antarctica</a>,<a href=""/wiki/Antarctic_Plateau"" title=""Antarctic Plateau"">Antarctic Plateau</a>","<td>−7.0 °C (19.4 °F)
+</td>",,"<span data-sort-value=""000000001989-12-28-0000"" style=""white-space:nowrap"">28 December 1989</span>"
+"<a href=""/wiki/South_Pole"" title=""South Pole"">South Pole</a>","<td>−12.3 °C (9.9 °F)
+</td>","<a href=""/wiki/Amundsen%E2%80%93Scott_South_Pole_Station"" title=""Amundsen–Scott South Pole Station"">Amundsen–Scott South Pole Station</a>","<span data-sort-value=""000000002011-12-25-0000"" style=""white-space:nowrap"">25 December 2011</span>"
+"<a href=""/wiki/Afghanistan"" title=""Afghanistan"">Afghanistan</a>","<td>49.9 °C (121.8 °F)
+</td>","<a href=""/wiki/Farah,_Afghanistan"" title=""Farah, Afghanistan"">Farah</a>","<span data-sort-value=""000000002009-08-01-0000"" style=""white-space:nowrap"">August 2009</span>"
+"<a href=""/wiki/Armenia"" title=""Armenia"">Armenia</a>","<td>43.7 °C (110.7 °F)
+</td>","<a href=""/wiki/Meghri"" title=""Meghri"">Meghri</a>","<span data-sort-value=""000000002011-08-01-0000"" style=""white-space:nowrap"">1 August 2011</span>"
+"<a href=""/wiki/Azerbaijan"" title=""Azerbaijan"">Azerbaijan</a>","<td>46.0 °C (114.8 °F)
+</td>","<a href=""/wiki/Julfa,_Azerbaijan_(city)"" title=""Julfa, Azerbaijan (city)"">Julfa</a>,<a href=""/wiki/Ordubad"" title=""Ordubad"">Ordubad</a>",
+"<a href=""/wiki/Bangladesh"" title=""Bangladesh"">Bangladesh</a>","<td>45.1 °C (113.2 °F)
+</td>","<a href=""/wiki/Rajshahi"" title=""Rajshahi"">Rajshahi</a>","<span data-sort-value=""000000001972-05-30-0000"" style=""white-space:nowrap"">30 May 1972</span>"
+"<a href=""/wiki/Bhutan"" title=""Bhutan"">Bhutan</a>","<td>40 °C (104 °F)
+</td>","<a href=""/wiki/Phuentsholing"" class=""mw-redirect"" title=""Phuentsholing"">Phuentsholing</a>","<span data-sort-value=""000000001997-08-27-0000"" style=""white-space:nowrap"">27 August 1997</span>"
+"<a href=""/wiki/Cambodia"" title=""Cambodia"">Cambodia</a>","<td>42.6 °C (108.7 °F)
+</td>","<a href=""/wiki/Preah_Vihear_Province"" title=""Preah Vihear Province"">Preah Vihear</a>","<span data-sort-value=""000000002016-04-15-0000"" style=""white-space:nowrap"">15 April 2016</span>"
+"<a href=""/wiki/China"" title=""China"">China</a>","<td>50.5 °C (122.9 °F)
+</td>","<a href=""/wiki/Erbao_Township"" title=""Erbao Township"">Erbao Township</a>,<a href=""/wiki/Turpan"" title=""Turpan"">Turpan</a>,<a href=""/wiki/Xinjiang"" title=""Xinjiang"">Xinjiang</a>","<span data-sort-value=""000000002017-07-10-0000"" style=""white-space:nowrap"">10 July 2017</span>"
+"<a href=""/wiki/Hong_Kong"" title=""Hong Kong"">Hong Kong</a>","<td>39.0 °C (102.2 °F)
+</td>","<a href=""/wiki/Hong_Kong_Wetland_Park"" title=""Hong Kong Wetland Park"">Wetland Park</a>","<span data-sort-value=""000000002017-08-22-0000"" style=""white-space:nowrap"">22 August 2017</span>"
+"<a href=""/wiki/Macau"" title=""Macau"">Macau</a>","<td>39.0 °C (102.2 °F)
+</td>","<a href=""/wiki/Coloane"" title=""Coloane"">Coloane</a>","<span data-sort-value=""000000002017-08-22-0000"" style=""white-space:nowrap"">22 August 2017</span>"
+"<a href=""/wiki/India"" title=""India"">India</a>","<td>51.0 °C (123.8 °F)
+</td>","<a href=""/wiki/Phalodi"" title=""Phalodi"">Phalodi</a>,<a href=""/wiki/Rajasthan"" title=""Rajasthan"">Rajasthan</a>","<span data-sort-value=""000000002016-05-19-0000"" style=""white-space:nowrap"">19 May 2016</span>"
+"<a href=""/wiki/Indonesia"" title=""Indonesia"">Indonesia</a>","<td>39.5 °C (103.1 °F)
+</td>","<a href=""/w/index.php?title=Jatiwangi&amp;action=edit&amp;redlink=1"" class=""new"" title=""Jatiwangi (page does not exist)"">Jatiwangi</a>,<a href=""/wiki/Majalengka_Regency"" title=""Majalengka Regency"">Majalengka Regency</a>,<a href=""/wiki/West_Java"" title=""West Java"">West Java</a>,<a href=""/wiki/Semarang"" title=""Semarang"">Semarang</a>,<a href=""/wiki/Central_Java"" title=""Central Java"">Central Java</a>","<span data-sort-value=""000000002006-12-01-0000"" style=""white-space:nowrap"">December 2006</span>"
+"<a href=""/wiki/Iran"" title=""Iran"">Iran</a>","<td><i><b>54 °C (129 °F)</b></i>
+</td>","<a href=""/wiki/Ahvaz"" title=""Ahvaz"">Ahvaz</a>","<span data-sort-value=""000000002017-06-29-0000"" style=""white-space:nowrap"">29 June 2017</span>"
+"<a href=""/wiki/Iraq"" title=""Iraq"">Iraq</a>","<td>53.8 °C (128.8 °F)
+</td>","<a href=""/wiki/Basra"" title=""Basra"">Basra</a>","<span data-sort-value=""000000002016-07-22-0000"" style=""white-space:nowrap"">22 July 2016</span>"
+"<a href=""/wiki/Israel"" title=""Israel"">Israel</a>,<a href=""/wiki/Mandatory_Palestine"" title=""Mandatory Palestine"">Mandatory Palestine</a>","<td><i><b>54 °C (129 °F)</b></i>
+</td>","<a href=""/wiki/Tirat_Zvi"" title=""Tirat Zvi"">Tirat Zvi</a>","<span data-sort-value=""000000001942-06-21-0000"" style=""white-space:nowrap"">21 June 1942</span>"
+"<a href=""/wiki/Japan"" title=""Japan"">Japan</a>","<td>41.1 °C (106.0 °F)
+</td>","<a href=""/wiki/Kumagaya,_Saitama"" class=""mw-redirect"" title=""Kumagaya, Saitama"">Kumagaya</a>,<a href=""/wiki/Saitama_Prefecture"" title=""Saitama Prefecture"">Saitama</a>","<span data-sort-value=""000000002018-07-23-0000"" style=""white-space:nowrap"">23 July 2018</span>"
+"<a href=""/wiki/Jordan"" title=""Jordan"">Jordan</a>","<td>50 °C (122 °F)
+</td>",,"<span data-sort-value=""000000002002-09-06-0000"" style=""white-space:nowrap"">6 September 2002</span>"
+"<a href=""/wiki/Kazakhstan"" title=""Kazakhstan"">Kazakhstan</a>","<td>49.1 °C (120.4 °F)
+</td>","<a href=""/wiki/Turkistan_(city)"" title=""Turkistan (city)"">Turkistan</a>",
+"<a href=""/wiki/Kuwait"" title=""Kuwait"">Kuwait</a>","<td><i><b>53.9 °C (129.0 °F)</b></i>
+</td>","<a href=""/wiki/Mitribah"" title=""Mitribah"">Mitribah</a>","<span data-sort-value=""000000002016-07-21-0000"" style=""white-space:nowrap"">21 July 2016</span>"
+"<a href=""/wiki/Kyrgyzstan"" title=""Kyrgyzstan"">Kyrgyzstan</a>","<td>44.0 °C (111.2 °F)
+</td>",,
+"<a href=""/wiki/Laos"" title=""Laos"">Laos</a>","<td>42.3 °C (108.1 °F)
+</td>","<a href=""/w/index.php?title=Seno,_Laos&amp;action=edit&amp;redlink=1"" class=""new"" title=""Seno, Laos (page does not exist)"">Seno</a>","<span data-sort-value=""000000002016-04-12-0000"" style=""white-space:nowrap"">12 April 2016</span>"
+"<a href=""/wiki/Malaysia"" title=""Malaysia"">Malaysia</a>","<td>40.1 °C (104.2 °F)
+</td>","<a href=""/wiki/Chuping"" title=""Chuping"">Chuping</a>","<span data-sort-value=""000000001998-04-09-0000"" style=""white-space:nowrap"">9 April 1998</span>"
+"<a href=""/wiki/Maldives"" title=""Maldives"">Maldives</a>","<td>34.9 °C (94.8 °F)
+</td>","<a href=""/wiki/Hanimaadhoo_(Haa_Dhaalu_Atoll)"" title=""Hanimaadhoo (Haa Dhaalu Atoll)"">Hanimaadhoo</a>","<span data-sort-value=""000000002016-04-16-0000"" style=""white-space:nowrap"">16 April 2016</span>"
+"<a href=""/wiki/Mongolia"" title=""Mongolia"">Mongolia</a>","<td>44.0 °C (111.2 °F)
+</td>","<a href=""/wiki/Khongor,_Darkhan-Uul"" title=""Khongor, Darkhan-Uul"">Khongor</a>,<a href=""/wiki/Darkhan-Uul_Province"" title=""Darkhan-Uul Province"">Darkhan-Uul Province</a>","<span data-sort-value=""000000001999-07-24-0000"" style=""white-space:nowrap"">24 July 1999</span>"
+"<a href=""/wiki/Myanmar"" title=""Myanmar"">Myanmar</a>","<td>47.2 °C (117.0 °F)
+</td>","<a href=""/wiki/Myinmu"" title=""Myinmu"">Myinmu</a>","<span data-sort-value=""000000002010-05-14-0000"" style=""white-space:nowrap"">14 May 2010</span>"
+"<a href=""/wiki/Nepal"" title=""Nepal"">Nepal</a>","<td>46.4 °C (115.5 °F)
+</td>","<a href=""/wiki/Dhangadhi"" title=""Dhangadhi"">Ataria</a>",
+"<a href=""/wiki/Oman"" title=""Oman"">Oman</a>","<td>50.8 °C (123.4 °F)
+</td>","<a href=""/wiki/Buraimi"" class=""mw-redirect"" title=""Buraimi"">Buraimi</a>,<a href=""/wiki/Sohar"" title=""Sohar"">Sohar</a>,<a href=""/wiki/Qurayyat,_Oman"" title=""Qurayyat, Oman"">Qurayyat</a>","<span data-sort-value=""000000001990-07-01-0000"" style=""white-space:nowrap"">July 1990</span>,<span data-sort-value=""000000002009-05-01-0000"" style=""white-space:nowrap"">May 2009</span>,<span data-sort-value=""000000002017-05-30-0000"" style=""white-space:nowrap"">30 May 2017</span>"
+"<a href=""/wiki/Pakistan"" title=""Pakistan"">Pakistan</a>","<td>53.7 °C (128.7 °F)
+</td>","<a href=""/wiki/Mohenjo-Daro"" class=""mw-redirect"" title=""Mohenjo-Daro"">Mohenjo-Daro</a>,<a href=""/wiki/Turbat"" title=""Turbat"">Turbat</a>","<span data-sort-value=""000000002017-05-28-0000"" style=""white-space:nowrap"">28 May 2017</span>,<span data-sort-value=""000000002010-05-26-0000"" style=""white-space:nowrap"">26 May 2010</span>"
+"<a href=""/wiki/Philippines"" title=""Philippines"">Philippines</a>,<a href=""/wiki/United_States"" title=""United States""><img alt=""United States"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_United_States_%281908%E2%80%931912%29.svg/23px-Flag_of_the_United_States_%281908%E2%80%931912%29.svg.png"" decoding=""async"" width=""23"" height=""12"" class=""thumbborder"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_United_States_%281908%E2%80%931912%29.svg/35px-Flag_of_the_United_States_%281908%E2%80%931912%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_the_United_States_%281908%E2%80%931912%29.svg/46px-Flag_of_the_United_States_%281908%E2%80%931912%29.svg.png 2x"" data-file-width=""1710"" data-file-height=""900""></a>,<a href=""/wiki/Insular_Government_of_the_Philippine_Islands"" title=""Insular Government of the Philippine Islands"">Insular Government</a>","<td>42.2 °C (108.0 °F)
+</td>","<a href=""/wiki/Tuguegarao"" title=""Tuguegarao"">Tuguegarao</a>,<a href=""/wiki/Cagayan_Valley"" title=""Cagayan Valley"">Cagayan Valley</a>","<span data-sort-value=""000000001912-04-12-0000"" style=""white-space:nowrap"">12 April 1912</span>"
+"<a href=""/wiki/Qatar"" title=""Qatar"">Qatar</a>","<td>50.4 °C (122.7 °F)
+</td>","<a href=""/wiki/Doha"" title=""Doha"">Doha</a>","<span data-sort-value=""000000002010-07-14-0000"" style=""white-space:nowrap"">14 July 2010</span>"
+"<a href=""/wiki/Russia"" title=""Russia"">Russia</a>,<a href=""/wiki/Russian_Empire"" title=""Russian Empire"">Russian Empire</a>,<a href=""/wiki/Russian_Soviet_Federative_Socialist_Republic"" title=""Russian Soviet Federative Socialist Republic"">Russian SFSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>43.2 °C (109.8 °F)
+</td>","<a href=""/wiki/Chita,_Zabaykalsky_Krai"" title=""Chita, Zabaykalsky Krai"">Chita, Zabaykalsky Krai</a>",
+"<a href=""/wiki/Saudi_Arabia"" title=""Saudi Arabia"">Saudi Arabia</a>","<td>52.0 °C (125.6 °F)
+</td>","<a href=""/wiki/Jeddah"" title=""Jeddah"">Jeddah</a>","<span data-sort-value=""000000002010-06-23-0000"" style=""white-space:nowrap"">23 June 2010</span>"
+"<a href=""/wiki/Singapore"" title=""Singapore"">Singapore</a>","<td>37.0 °C (98.6 °F)
+</td>","<a href=""/wiki/Tengah,_Singapore"" title=""Tengah, Singapore"">Tengah</a>","<span data-sort-value=""000000001983-04-17-0000"" style=""white-space:nowrap"">17 April 1983</span>"
+"<a href=""/wiki/South_Korea"" title=""South Korea"">South Korea</a>","<td>41.0 °C (105.8 °F)
+</td>","<a href=""/wiki/Hongcheon"" class=""mw-redirect"" title=""Hongcheon"">Hongcheon</a>,<a href=""/wiki/Gangwon_Province_(South_Korea)"" class=""mw-redirect"" title=""Gangwon Province (South Korea)"">Gangwon Province</a>","<span data-sort-value=""000000002018-08-01-0000"" style=""white-space:nowrap"">1 August 2018</span>"
+"<a href=""/wiki/Syria"" title=""Syria"">Syria</a>","<td>49.4 °C (120.9 °F)
+</td>",,
+"<a href=""/wiki/Taiwan"" title=""Taiwan"">Taiwan</a>","<td>40.3 °C (104.5 °F)
+</td>","<a href=""/w/index.php?title=Tianxiang&amp;action=edit&amp;redlink=1"" class=""new"" title=""Tianxiang (page does not exist)"">Tianxiang</a>,<a href=""/wiki/Hualien_County"" title=""Hualien County"">Hualien County</a>","<span data-sort-value=""000000002018-07-09-0000"" style=""white-space:nowrap"">9 July 2018</span>"
+"<a href=""/wiki/Tajikistan"" title=""Tajikistan"">Tajikistan</a>","<td>48.0 °C (118.4 °F)
+</td>","<a href=""/wiki/Panji_Poyon"" title=""Panji Poyon"">Panji Poyon</a>",
+"<a href=""/wiki/Thailand"" title=""Thailand"">Thailand</a>","<td>44.6 °C (112.3 °F)
+</td>","<a href=""/wiki/Mae_Hong_Son"" title=""Mae Hong Son"">Mae Hong Son</a>","<span data-sort-value=""000000002016-04-28-0000"" style=""white-space:nowrap"">28 April 2016</span>"
+"<a href=""/wiki/Turkey"" title=""Turkey"">Turkey</a>","<td>49.0 °C (120.2 °F)
+</td>","<a href=""/wiki/Cizre"" title=""Cizre"">Cizre</a>,<a href=""/wiki/%C5%9E%C4%B1rnak_Province"" title=""Şırnak Province"">Şırnak Province</a>","<span data-sort-value=""000000001961-08-27-0000"" style=""white-space:nowrap"">27 August 1961</span>"
+"<a href=""/wiki/Turkmenistan"" title=""Turkmenistan"">Turkmenistan</a>,<a href=""/wiki/Turkmen_Soviet_Socialist_Republic"" title=""Turkmen Soviet Socialist Republic"">Turkmen SSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>50.1 °C (122.2 °F)
+</td>","<a href=""/wiki/Repetek_Biosphere_State_Reserve"" title=""Repetek Biosphere State Reserve"">Repetek Biosphere State Reserve</a>,<a href=""/wiki/Karakum_Desert"" title=""Karakum Desert"">Karakum Desert</a>","<span data-sort-value=""000000001983-07-28-0000"" style=""white-space:nowrap"">28 July 1983</span>"
+"<a href=""/wiki/United_Arab_Emirates"" title=""United Arab Emirates"">United Arab Emirates</a>","<td>52.1 °C (125.8 °F)
+</td>","<a href=""/w/index.php?title=Al_Jazeera_Border_Gate&amp;action=edit&amp;redlink=1"" class=""new"" title=""Al Jazeera Border Gate (page does not exist)"">Al Jazeera Border Gate</a>","<span data-sort-value=""000000002002-07-01-0000"" style=""white-space:nowrap"">July 2002</span>"
+"<a href=""/wiki/Vietnam"" title=""Vietnam"">Vietnam</a>","<td>43.4 °C (110.1 °F)
+</td>","<a href=""/wiki/Huong_Khe_District"" class=""mw-redirect"" title=""Huong Khe District"">Huong Khe District</a>","<span data-sort-value=""000000002019-04-20-0000"" style=""white-space:nowrap"">20 April 2019</span>"
+"<a href=""/wiki/Albania"" title=""Albania"">Albania</a>","<td>43.9 °C (111.0 °F)
+</td>","<a href=""/wiki/Tirana"" title=""Tirana"">Tirana</a>","<span data-sort-value=""000000001973-01-01-0000"" style=""white-space:nowrap"">1973</span>"
+"<a href=""/wiki/Austria"" title=""Austria"">Austria</a>","<td>40.5 °C (104.9 °F)
+</td>","<a href=""/wiki/Bad_Deutsch-Altenburg"" title=""Bad Deutsch-Altenburg"">Bad Deutsch-Altenburg</a>","<span data-sort-value=""000000002013-08-08-0000"" style=""white-space:nowrap"">8 August 2013</span>"
+"<a href=""/wiki/Belarus"" title=""Belarus"">Belarus</a>","<td>38.9 °C (102.0 °F)
+</td>","<a href=""/wiki/Gomel"" title=""Gomel"">Gomel</a>","<span data-sort-value=""000000002010-08-07-0000"" style=""white-space:nowrap"">7 August 2010</span>"
+"<a href=""/wiki/Belgium"" title=""Belgium"">Belgium</a>","<td>41.8 °C (107.2 °F)
+</td>","<a href=""/wiki/Begijnendijk"" title=""Begijnendijk"">Begijnendijk</a>,<a href=""/wiki/Flemish_Brabant"" title=""Flemish Brabant"">Flemish Brabant</a>,<a href=""#cite_note-EuropeanJuly2019-81"">[note 5]</a>","<span data-sort-value=""000000002019-07-25-0000"" style=""white-space:nowrap"">25 July 2019</span>"
+"<a href=""/wiki/Bosnia_and_Herzegovina"" title=""Bosnia and Herzegovina"">Bosnia and Herzegovina</a>,<a href=""/wiki/Austria-Hungary"" title=""Austria-Hungary"">Austria–Hungary</a>,<a href=""/wiki/Austro-Hungarian_rule_in_Bosnia_and_Herzegovina"" title=""Austro-Hungarian rule in Bosnia and Herzegovina"">-occupied</a>,<a href=""/wiki/File:Flag_of_Independent_Bosnia_(1878).svg"" class=""image""><img alt=""Flag of Independent Bosnia (1878).svg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Independent_Bosnia_%281878%29.svg/23px-Flag_of_Independent_Bosnia_%281878%29.svg.png"" decoding=""async"" width=""23"" height=""13"" class=""thumbborder"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Independent_Bosnia_%281878%29.svg/35px-Flag_of_Independent_Bosnia_%281878%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_Independent_Bosnia_%281878%29.svg/46px-Flag_of_Independent_Bosnia_%281878%29.svg.png 2x"" data-file-width=""744"" data-file-height=""415""></a>,<a href=""/wiki/Bosnia_Vilayet"" title=""Bosnia Vilayet"">Bosnia Vilayet</a>,<a href=""/wiki/Ottoman_Empire"" title=""Ottoman Empire"">Ottoman Empire</a>","<td>46.2 °C (115.2 °F)
+</td>","<a href=""/wiki/Mostar"" title=""Mostar"">Mostar</a>","<span data-sort-value=""000000001901-07-31-0000"" style=""white-space:nowrap"">31 July 1901</span>"
+"<a href=""/wiki/Bulgaria"" title=""Bulgaria"">Bulgaria</a>","<td>45.2 °C (113.4 °F)
+</td>","<a href=""/wiki/Sadovo"" title=""Sadovo"">Sadovo</a>,<a href=""/wiki/Plovdiv_Province"" title=""Plovdiv Province"">Plovdiv Province</a>","<span data-sort-value=""000000001916-08-05-0000"" style=""white-space:nowrap"">5 August 1916</span>"
+"<a href=""/wiki/Croatia"" title=""Croatia"">Croatia</a>,<a href=""/wiki/Socialist_Republic_of_Croatia"" title=""Socialist Republic of Croatia"">SR Croatia</a>,<a href=""/wiki/Socialist_Federal_Republic_of_Yugoslavia"" title=""Socialist Federal Republic of Yugoslavia"">SFR Yugoslavia</a>","<td>42.8 °C (109.0 °F)
+</td>","<a href=""/wiki/Plo%C4%8De"" title=""Ploče"">Ploče</a>","<span data-sort-value=""000000001981-08-05-0000"" style=""white-space:nowrap"">5 August 1981</span>"
+"<a href=""/wiki/Cyprus"" title=""Cyprus"">Cyprus</a>","<td>45.6 °C (114.1 °F)
+</td>","<a href=""/wiki/Nicosia"" title=""Nicosia"">Nicosia</a>","<span data-sort-value=""000000002010-08-01-0000"" style=""white-space:nowrap"">1 August 2010</span>"
+"<a href=""/wiki/Czech_Republic"" title=""Czech Republic"">Czech Republic</a>","<td>40.4 °C (104.7 °F)
+</td>","<a href=""/wiki/Dob%C5%99ichovice"" title=""Dobřichovice"">Dobřichovice</a>,<a href=""/wiki/Prague-West_District"" title=""Prague-West District"">Prague-West District</a>","<span data-sort-value=""000000002012-08-20-0000"" style=""white-space:nowrap"">20 August 2012</span>"
+"<a href=""/wiki/Denmark"" title=""Denmark"">Denmark</a>","<td>36.4 °C (97.5 °F)
+</td>","<a href=""/wiki/Holstebro"" title=""Holstebro"">Holstebro</a>,<a href=""/wiki/Midtjylland"" class=""mw-redirect"" title=""Midtjylland"">Midtjylland</a>","<span data-sort-value=""000000001975-08-10-0000"" style=""white-space:nowrap"">10 August 1975</span>"
+"<a href=""/wiki/Estonia"" title=""Estonia"">Estonia</a>","<td>35.6 °C (96.1 °F)
+</td>","<a href=""/wiki/V%C3%B5ru"" title=""Võru"">Võru</a>","<span data-sort-value=""000000001992-08-11-0000"" style=""white-space:nowrap"">11 August 1992</span>"
+"<a href=""/wiki/Finland"" title=""Finland"">Finland</a>","<td>37.2 °C (99.0 °F)
+</td>","<a href=""/wiki/Joensuu_Airport"" title=""Joensuu Airport"">Joensuu Airport</a>,<a href=""/wiki/Liperi"" title=""Liperi"">Liperi</a>","<span data-sort-value=""000000002010-07-29-0000"" style=""white-space:nowrap"">29 July 2010</span>"
+"<a href=""/wiki/France"" title=""France"">France</a>","<td>46.0 °C (114.8 °F)
+</td>","<a href=""/wiki/V%C3%A9rargues"" title=""Vérargues"">Vérargues</a>,<a href=""/wiki/H%C3%A9rault"" title=""Hérault"">Hérault</a>","<span data-sort-value=""000000002019-06-28-0000"" style=""white-space:nowrap"">28 June 2019</span>"
+"<a href=""/wiki/Germany"" title=""Germany"">Germany</a>","<td>42.6 °C (108.7 °F)
+</td>","<a href=""/wiki/Lingen,_Germany"" title=""Lingen, Germany"">Lingen</a>,<a href=""/wiki/Lower_Saxony"" title=""Lower Saxony"">Lower Saxony</a>,<a href=""#cite_note-EuropeanJuly2019-81"">[note 5]</a>","<span data-sort-value=""000000002019-07-25-0000"" style=""white-space:nowrap"">25 July 2019</span>"
+"<a href=""/wiki/Greece"" title=""Greece"">Greece</a>","<td><i><b>48.0 °C (118.4 °F)</b></i>
+</td>","<a href=""/wiki/Athens"" title=""Athens"">Athens</a>,<a href=""#cite_note-93"">[note 6]</a>","<span data-sort-value=""000000001977-07-10-0000"" style=""white-space:nowrap"">10 July 1977</span>"
+"<a href=""/wiki/Hungary"" title=""Hungary"">Hungary</a>","<td>41.9 °C (107.4 °F)
+</td>","<a href=""/wiki/Kiskunhalas"" title=""Kiskunhalas"">Kiskunhalas</a>","<span data-sort-value=""000000002007-07-20-0000"" style=""white-space:nowrap"">20 July 2007</span>"
+"<a href=""/wiki/Iceland"" title=""Iceland"">Iceland</a>,<a href=""/wiki/Denmark"" title=""Denmark""><img alt=""Denmark"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png"" decoding=""async"" width=""20"" height=""15"" class=""thumbborder"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/31px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/40px-Flag_of_Denmark.svg.png 2x"" data-file-width=""740"" data-file-height=""560""></a>,<a href=""/wiki/Kingdom_of_Iceland"" title=""Kingdom of Iceland"">Kingdom of Iceland</a>","<td>30.5 °C (86.9 °F)
+</td>","<a href=""/wiki/Dj%C3%BApivogur"" title=""Djúpivogur"">Djúpivogur</a>","<span data-sort-value=""000000001939-06-22-0000"" style=""white-space:nowrap"">22 June 1939</span>"
+"<a href=""/wiki/Republic_of_Ireland"" title=""Republic of Ireland"">Ireland</a>,<a href=""/wiki/United_Kingdom"" title=""United Kingdom"">United Kingdom</a>","<td>33.3 °C (91.9 °F)
+</td>","<a href=""/wiki/Kilkenny_Castle"" title=""Kilkenny Castle"">Kilkenny Castle</a>,<a href=""/wiki/County_Kilkenny"" title=""County Kilkenny"">County Kilkenny</a>","<span data-sort-value=""000000001887-06-26-0000"" style=""white-space:nowrap"">26 June 1887</span>"
+"<a href=""/wiki/Italy"" title=""Italy"">Italy</a>","<td>47.0 °C (116.6 °F)
+</td>","<a href=""/wiki/Foggia"" title=""Foggia"">Foggia</a>,<a href=""/wiki/Apulia"" title=""Apulia"">Apulia</a>,<a href=""#cite_note-100"">[note 7]</a>","<span data-sort-value=""000000002007-06-25-0000"" style=""white-space:nowrap"">25 June 2007</span>"
+"<a href=""/wiki/Latvia"" title=""Latvia"">Latvia</a>","<td>37.8 °C (100.0 °F)
+</td>","<a href=""/wiki/Ventspils"" title=""Ventspils"">Ventspils</a>","<span data-sort-value=""000000002014-08-04-0000"" style=""white-space:nowrap"">4 August 2014</span>"
+"<a href=""/wiki/Lithuania"" title=""Lithuania"">Lithuania</a>","<td>37.5 °C (99.5 °F)
+</td>","<a href=""/wiki/Zarasai"" title=""Zarasai"">Zarasai</a>,<a href=""/wiki/Utena_County"" title=""Utena County"">Utena County</a>","<span data-sort-value=""000000001994-07-30-0000"" style=""white-space:nowrap"">30 July 1994</span>"
+"<a href=""/wiki/Luxembourg"" title=""Luxembourg"">Luxembourg</a>","<td>40.8 °C (105.4 °F)
+</td>","<a href=""/wiki/Steinsel"" title=""Steinsel"">Steinsel, Luxembourg</a>,<a href=""#cite_note-EuropeanJuly2019-81"">[note 5]</a>","<span data-sort-value=""000000002019-07-25-0000"" style=""white-space:nowrap"">25 July 2019</span>"
+"<a href=""/wiki/Malta"" title=""Malta"">Malta</a>","<td>43.8 °C (110.8 °F)
+</td>","<a href=""/wiki/Malta_International_Airport"" title=""Malta International Airport"">Malta International Airport</a>","<span data-sort-value=""000000001999-08-09-0000"" style=""white-space:nowrap"">9 August 1999</span>"
+"<a href=""/wiki/Moldova"" title=""Moldova"">Moldova</a>","<td>42.4 °C (108.3 °F)
+</td>","<a href=""/wiki/F%C4%83le%C8%99ti"" title=""Fălești"">Fălești</a>","<span data-sort-value=""000000002012-08-07-0000"" style=""white-space:nowrap"">7 August 2012</span>"
+"<a href=""/wiki/Montenegro"" title=""Montenegro"">Montenegro</a>","<td>44.8 °C (112.6 °F)
+</td>","<a href=""/wiki/Podgorica"" title=""Podgorica"">Podgorica</a>,<a href=""/wiki/Danilovgrad"" title=""Danilovgrad"">Danilovgrad</a>","<span data-sort-value=""000000002007-08-16-0000"" style=""white-space:nowrap"">16 August 2007</span>"
+"<a href=""/wiki/Netherlands"" title=""Netherlands"">Netherlands</a>","<td>40.7 °C (105.3 °F)
+</td>","<a href=""/wiki/Gilze_en_Rijen"" title=""Gilze en Rijen"">Gilze en Rijen</a>,<a href=""#cite_note-EuropeanJuly2019-81"">[note 5]</a>,<a href=""#cite_note-110"">[note 8]</a>","<span data-sort-value=""000000002019-07-25-0000"" style=""white-space:nowrap"">25 July 2019</span>"
+"<a href=""/wiki/North_Macedonia"" title=""North Macedonia"">North Macedonia</a>","<td>45.7 °C (114.3 °F)
+</td>","<a href=""/wiki/Demir_Kapija"" title=""Demir Kapija"">Demir Kapija</a>,<a href=""/wiki/Demir_Kapija_Municipality"" title=""Demir Kapija Municipality"">Demir Kapija</a>","<span data-sort-value=""000000002007-07-24-0000"" style=""white-space:nowrap"">24 July 2007</span>"
+"<a href=""/wiki/Norway"" title=""Norway"">Norway</a>","<td>35.6 °C (96.1 °F)
+</td>","<a href=""/wiki/Nesbyen"" class=""mw-redirect"" title=""Nesbyen"">Nesbyen</a>,<a href=""/wiki/Buskerud"" title=""Buskerud"">Buskerud</a>","<span data-sort-value=""000000001970-06-20-0000"" style=""white-space:nowrap"">20 June 1970</span>"
+"<a href=""/wiki/Poland"" title=""Poland"">Poland</a>","<td>40.2 °C (104.4 °F)
+</td>","<a href=""/wiki/Pr%C3%B3szk%C3%B3w"" title=""Prószków"">Prószków</a>,<a href=""#cite_note-115"">[note 9]</a>","<span data-sort-value=""000000001921-07-29-0000"" style=""white-space:nowrap"">29 July 1921</span>"
+"<a href=""/wiki/Portugal"" title=""Portugal"">Portugal</a>","<td>47.4 °C (117.3 °F)
+</td>","<a href=""/wiki/Amareleja"" title=""Amareleja"">Amareleja</a>,<a href=""/wiki/Beja_(district)"" class=""mw-redirect"" title=""Beja (district)"">Beja</a>","<span data-sort-value=""000000002003-08-01-0000"" style=""white-space:nowrap"">1 August 2003</span>"
+"<a href=""/wiki/Romania"" title=""Romania"">Romania</a>","<td>44.5 °C (112.1 °F)
+</td>","<a href=""/wiki/Ion_Sion"" class=""mw-redirect"" title=""Ion Sion"">Ion Sion</a>,<a href=""/wiki/Br%C4%83ila_County"" title=""Brăila County"">Brăila County</a>","<span data-sort-value=""000000001951-08-10-0000"" style=""white-space:nowrap"">10 August 1951</span>"
+"<a href=""/wiki/Russia"" title=""Russia"">Russia</a>","<td>45.4 °C (113.7 °F)
+</td>","<a href=""/wiki/Utta"" title=""Utta"">Utta</a>,<a href=""/wiki/Kalmykia"" title=""Kalmykia"">Kalmykia</a>","<span data-sort-value=""000000002010-07-12-0000"" style=""white-space:nowrap"">12 July 2010</span>"
+"<a href=""/wiki/San_Marino"" title=""San Marino"">San Marino</a>","<td>40.3 °C (104.5 °F)
+</td>","<a href=""/wiki/Serravalle_(San_Marino)"" title=""Serravalle (San Marino)"">Serravalle</a>","<span data-sort-value=""000000002017-08-03-0000"" style=""white-space:nowrap"">3 August 2017</span>,<span data-sort-value=""000000002017-08-09-0000"" style=""white-space:nowrap"">9 August 2017</span>"
+"<a href=""/wiki/Serbia"" title=""Serbia"">Serbia</a>","<td>44.9 °C (112.8 °F)
+</td>","<a href=""/wiki/Smederevska_Palanka"" title=""Smederevska Palanka"">Smederevska Palanka</a>,<a href=""/wiki/Podunavlje_District"" title=""Podunavlje District"">Podunavlje</a>","<span data-sort-value=""000000002007-07-24-0000"" style=""white-space:nowrap"">24 July 2007</span>"
+"<a href=""/wiki/Slovakia"" title=""Slovakia"">Slovakia</a>","<td>40.3 °C (104.5 °F)
+</td>","<a href=""/wiki/Hurbanovo"" title=""Hurbanovo"">Hurbanovo</a>","<span data-sort-value=""000000002007-07-20-0000"" style=""white-space:nowrap"">20 July 2007</span>"
+"<a href=""/wiki/Slovenia"" title=""Slovenia"">Slovenia</a>","<td>40.8 °C (105.4 °F)
+</td>","<a href=""/wiki/Cerklje_ob_Krki"" title=""Cerklje ob Krki"">Cerklje ob Krki</a>","<span data-sort-value=""000000002013-08-08-0000"" style=""white-space:nowrap"">8 August 2013</span>"
+"<a href=""/wiki/Spain"" title=""Spain"">Spain</a>","<td>47.3 °C (117.1 °F)
+</td>","<a href=""/wiki/Montoro,_Cordoba"" class=""mw-redirect"" title=""Montoro, Cordoba"">Montoro, Cordoba</a>","<span data-sort-value=""000000002017-07-13-0000"" style=""white-space:nowrap"">13 July 2017</span>"
+"<a href=""/wiki/Sweden"" title=""Sweden"">Sweden</a>","<td>38.0 °C (100.4 °F)
+</td>","<a href=""/wiki/Ultuna"" title=""Ultuna"">Ultuna</a>,<a href=""/wiki/Uppsala_County"" title=""Uppsala County"">Uppsala County</a>,<a href=""/wiki/M%C3%A5lilla"" title=""Målilla"">Målilla</a>,<a href=""/wiki/Kalmar_County"" title=""Kalmar County"">Kalmar County</a>","<span data-sort-value=""000000001933-07-09-0000"" style=""white-space:nowrap"">9 July 1933</span>"
+"<a href=""/wiki/Switzerland"" title=""Switzerland"">Switzerland</a>","<td>41.5 °C (106.7 °F)
+</td>","<a href=""/wiki/Grono,_Switzerland"" title=""Grono, Switzerland"">Grono</a>,<a href=""/wiki/Moesa_District"" title=""Moesa District"">Moesa District</a>","<span data-sort-value=""000000002003-08-11-0000"" style=""white-space:nowrap"">11 August 2003</span>"
+"<a href=""/wiki/Ukraine"" title=""Ukraine"">Ukraine</a>","<td>42.0 °C (107.6 °F)
+</td>","<a href=""/wiki/Luhansk"" title=""Luhansk"">Luhansk</a>","<span data-sort-value=""000000002010-08-12-0000"" style=""white-space:nowrap"">12 August 2010</span>"
+"<a href=""/wiki/United_Kingdom"" title=""United Kingdom"">United Kingdom</a>","<td>38.7 °C (101.7 °F)
+</td>","<a href=""/wiki/Cambridge"" title=""Cambridge"">Cambridge</a>,<a href=""/wiki/Cambridgeshire"" title=""Cambridgeshire"">Cambridgeshire</a>,<a href=""#cite_note-EuropeanJuly2019-81"">[note 5]</a>","<span data-sort-value=""000000002019-07-25-0000"" style=""white-space:nowrap"">25 July 2019</span>"
+"<a href=""/wiki/Vatican_City"" title=""Vatican City"">Vatican City</a>","<td>40.7 °C (105.3 °F)
+</td>","<a href=""/wiki/Vatican_City"" title=""Vatican City"">Vatican City</a>","<span data-sort-value=""000000002017-08-02-0000"" style=""white-space:nowrap"">2 August 2017</span>"
+"<a href=""/wiki/Anguilla"" title=""Anguilla"">Anguilla</a>","<td>34.2 °C (93.6 °F)
+</td>","<a href=""/wiki/The_Valley,_Anguilla"" title=""The Valley, Anguilla"">The Valley</a>","<span data-sort-value=""000000002015-09-12-0000"" style=""white-space:nowrap"">12 September 2015</span>"
+"<a href=""/wiki/Antigua_and_Barbuda"" title=""Antigua and Barbuda"">Antigua and Barbuda</a>","<td>34.9 °C (94.8 °F)
+</td>","<a href=""/wiki/V._C._Bird_International_Airport"" title=""V. C. Bird International Airport"">V. C. Bird International Airport</a>,<a href=""/wiki/St._John%27s,_Antigua_and_Barbuda"" title=""St. John's, Antigua and Barbuda"">St. John's</a>","<span data-sort-value=""000000001995-08-12-0000"" style=""white-space:nowrap"">12 August 1995</span>"
+"<a href=""/wiki/British_Virgin_Islands"" title=""British Virgin Islands"">British Virgin Islands</a>","<td>35.0 °C (95.0 °F)
+</td>","<a href=""/wiki/Terrance_B._Lettsome_International_Airport"" title=""Terrance B. Lettsome International Airport"">Terrance B. Lettsome International Airport</a>","<span data-sort-value=""000000002016-07-22-0000"" style=""white-space:nowrap"">22 July 2016</span>"
+"<a href=""/wiki/Canada"" title=""Canada"">Canada</a>","<td>45.0 °C (113.0 °F)
+</td>","<a href=""/wiki/Yellow_Grass"" title=""Yellow Grass"">Yellow Grass</a>,<a href=""/wiki/Saskatchewan"" title=""Saskatchewan"">Saskatchewan</a>,<a href=""/wiki/Midale"" title=""Midale"">Midale</a>","<span data-sort-value=""000000001937-07-05-0000"" style=""white-space:nowrap"">5 July 1937</span>"
+"<a href=""/wiki/Cayman_Islands"" title=""Cayman Islands"">Cayman Islands</a>","<td>34.9 °C (94.8 °F)
+</td>","<a href=""/wiki/Owen_Roberts_International_Airport"" title=""Owen Roberts International Airport"">Owen Roberts International Airport</a>,<a href=""/wiki/Grand_Cayman"" title=""Grand Cayman"">Grand Cayman</a>","<span data-sort-value=""000000002016-08-21-0000"" style=""white-space:nowrap"">21 August 2016</span>"
+"<a href=""/wiki/Cuba"" title=""Cuba"">Cuba</a>","<td>39.1 °C (102.4 °F)
+</td>","<a href=""/wiki/Granma_Province"" title=""Granma Province"">Granma Province</a>","<span data-sort-value=""000000002019-06-30-0000"" style=""white-space:nowrap"">30 June 2019</span>"
+"<a href=""/wiki/Dominica"" title=""Dominica"">Dominica</a>","<td>35.5 °C (95.9 °F)
+</td>","<a href=""/wiki/Canefield_Airport"" title=""Canefield Airport"">Canefield Airport</a>","<span data-sort-value=""000000002015-10-03-0000"" style=""white-space:nowrap"">3 October 2015</span>"
+"<a href=""/wiki/Dominican_Republic"" title=""Dominican Republic"">Dominican Republic</a>","<td>43.0 °C (109.4 °F)
+</td>","<a href=""/wiki/Mao,_Dominican_Republic"" title=""Mao, Dominican Republic"">Mao</a>","<span data-sort-value=""000000001954-08-31-0000"" style=""white-space:nowrap"">31 August 1954</span>"
+"<a href=""/wiki/Greenland"" title=""Greenland"">Greenland</a>","<td>30.1 °C (86.2 °F)
+</td>","<a href=""/wiki/Ivittuut"" title=""Ivittuut"">Ivittuut</a>","<span data-sort-value=""000000001915-06-23-0000"" style=""white-space:nowrap"">23 June 1915</span>"
+"<a href=""/wiki/Guatemala"" title=""Guatemala"">Guatemala</a>","<td>45 °C (113 °F)
+</td>","<a href=""/wiki/Estanzuela"" title=""Estanzuela"">Estanzuela</a>,<a href=""/wiki/Zacapa"" title=""Zacapa"">Zacapa</a>",
+"<a href=""/wiki/Martinique"" title=""Martinique"">Martinique</a>","<td>36.5 °C (97.7 °F)
+</td>","<a href=""/wiki/Saint-Pierre,_Martinique"" title=""Saint-Pierre, Martinique"">Saint-Pierre</a>","<span data-sort-value=""000000002010-10-06-0000"" style=""white-space:nowrap"">6 October 2010</span>"
+"<a href=""/wiki/Mexico"" title=""Mexico"">Mexico</a>","<td>52.0 °C (125.6 °F)
+</td>","<a href=""/wiki/Mexicali"" title=""Mexicali"">Mexicali</a>","<span data-sort-value=""000000001995-07-28-0000"" style=""white-space:nowrap"">28 July 1995</span>"
+"<a href=""/wiki/Panama"" title=""Panama"">Panama</a>","<td>40.0 °C (104.0 °F)
+</td>","<a href=""/wiki/San_Francisco,_Panam%C3%A1"" title=""San Francisco, Panamá"">San Francisco</a>","<span data-sort-value=""000000001998-03-20-0000"" style=""white-space:nowrap"">20 March 1998</span>"
+"<a href=""/wiki/Puerto_Rico"" title=""Puerto Rico"">Puerto Rico</a>","<td>40 °C (104 °F)
+</td>","<a href=""/wiki/Mona_Island"" class=""mw-redirect"" title=""Mona Island"">Mona Island</a>","<span data-sort-value=""000000001996-07-02-0000"" style=""white-space:nowrap"">2 July 1996</span>"
+"<a href=""/wiki/United_States"" title=""United States"">United States</a>","<td><i><b>56.7 °C (134 °F)</b></i>
+</td>","<a href=""/wiki/Furnace_Creek,_California"" title=""Furnace Creek, California"">Furnace Creek</a>,<a href=""/wiki/Death_Valley"" title=""Death Valley"">Death Valley</a>,<a href=""/wiki/California"" title=""California"">California</a>","<span data-sort-value=""000000001913-07-10-0000"" style=""white-space:nowrap"">10 July 1913</span>"
+"<a href=""/wiki/United_States_Virgin_Islands"" title=""United States Virgin Islands"">United States Virgin Islands</a>","<td>37.2 °C (99 °F)
+</td>","<a href=""/wiki/Saint_Thomas,_U.S._Virgin_Islands"" title=""Saint Thomas, U.S. Virgin Islands"">Saint Thomas</a>,<a href=""/wiki/Cruz_Bay,_U.S._Virgin_Islands"" title=""Cruz Bay, U.S. Virgin Islands"">Cruz Bay</a>","<span data-sort-value=""000000001994-08-04-0000"" style=""white-space:nowrap"">4 August 1994</span>"
+"<a href=""/wiki/Australia"" title=""Australia"">Australia</a>","<td><i><b>50.7 °C (123.3 °F)</b></i>
+</td>","<a href=""/wiki/Oodnadatta,_South_Australia"" class=""mw-redirect"" title=""Oodnadatta, South Australia"">Oodnadatta, South Australia</a>,<a href=""#cite_note-148"">[note 10]</a>","<span data-sort-value=""000000001960-01-02-0000"" style=""white-space:nowrap"">2 January 1960</span>"
+"<a href=""/wiki/Marshall_Islands"" title=""Marshall Islands"">Marshall Islands</a>","<td>35.6 °C (96.1 °F)
+</td>","<a href=""/wiki/Utirik_Atoll"" title=""Utirik Atoll"">Utirik Atoll</a>","<span data-sort-value=""000000002016-08-24-0000"" style=""white-space:nowrap"">24 August 2016</span>"
+"<a href=""/wiki/New_Zealand"" title=""New Zealand"">New Zealand</a>","<td>42.4 °C (108.3 °F)
+</td>","<a href=""/wiki/Rangiora"" title=""Rangiora"">Rangiora</a>,<a href=""/wiki/Canterbury,_New_Zealand"" title=""Canterbury, New Zealand"">Canterbury</a>,<a href=""/wiki/Marlborough_Region"" title=""Marlborough Region"">Marlborough</a>","<span data-sort-value=""000000001973-02-07-0000"" style=""white-space:nowrap"">7 February 1973</span>"
+"<a href=""/wiki/Palau"" title=""Palau"">Palau</a>","<td>35 °C (95 °F)
+</td>","<a href=""/wiki/Koror"" title=""Koror"">Koror</a>","<span data-sort-value=""000000002018-03-22-0000"" style=""white-space:nowrap"">22 March 2018</span>"
+"<a href=""/wiki/Samoa"" title=""Samoa"">Samoa</a>","<td>35.3 °C (95.5 °F)
+</td>","<a href=""/wiki/Asau,_Samoa"" title=""Asau, Samoa"">Asau</a>","<span data-sort-value=""000000001968-12-24-0000"" style=""white-space:nowrap"">24 December 1968</span>"
+"<a href=""/wiki/Solomon_Islands"" title=""Solomon Islands"">Solomon Islands</a>","<td>36.1 °C (97.0 °F)
+</td>","<a href=""/wiki/Honiara"" title=""Honiara"">Honiara</a>,<a href=""/wiki/Guadalcanal_Province"" title=""Guadalcanal Province"">Guadalcanal Province</a>","<span data-sort-value=""000000002010-02-01-0000"" style=""white-space:nowrap"">1 February 2010</span>"
+"<a href=""/wiki/Tonga"" title=""Tonga"">Tonga</a>","<td>35.5 °C (95.9 °F)
+</td>","<a href=""/wiki/Niuafoou"" class=""mw-redirect"" title=""Niuafoou"">Niuafoou</a>","<span data-sort-value=""000000002016-02-01-0000"" style=""white-space:nowrap"">1 February 2016</span>"
+"<a href=""/wiki/Vanuatu"" title=""Vanuatu"">Vanuatu</a>","<td>36.2 °C (97.2 °F)
+</td>","<a href=""/w/index.php?title=Lamap_Malekula&amp;action=edit&amp;redlink=1"" class=""new"" title=""Lamap Malekula (page does not exist)"">Lamap Malekula</a>","<span data-sort-value=""000000002016-02-08-0000"" style=""white-space:nowrap"">8 February 2016</span>"
+"<a href=""/wiki/Wallis_and_Futuna"" title=""Wallis and Futuna"">Wallis and Futuna</a>","<td>35.8 °C (96.4 °F)
+</td>","<a href=""/wiki/Futuna_Airport"" title=""Futuna Airport"">Futuna Airport</a>","<span data-sort-value=""000000002016-01-10-0000"" style=""white-space:nowrap"">10 January 2016</span>"
+"<a href=""/wiki/Argentina"" title=""Argentina"">Argentina</a>","<td><i><b>48.9 °C (120.0 °F)</b></i>
+</td>","<a href=""/wiki/Rivadavia,_Salta"" title=""Rivadavia, Salta"">Rivadavia</a>,<a href=""/wiki/Salta_Province"" title=""Salta Province"">Salta Province</a>,<a href=""#cite_note-153"">[note 11]</a>","<span data-sort-value=""000000001905-12-11-0000"" style=""white-space:nowrap"">11 December 1905</span>"
+"<a href=""/wiki/Bolivia"" title=""Bolivia"">Bolivia</a>","<td>46.7 °C (116.1 °F)
+</td>","<a href=""/wiki/Villamontes"" title=""Villamontes"">Villamontes</a>,<a href=""/wiki/Tarija_Department"" title=""Tarija Department"">Tarija Department</a>","<span data-sort-value=""000000002010-10-29-0000"" style=""white-space:nowrap"">29 October 2010</span>"
+"<a href=""/wiki/Brazil"" title=""Brazil"">Brazil</a>","<td>44.7 °C (112.5 °F)
+</td>","<a href=""/wiki/Bom_Jesus,_Piau%C3%AD"" title=""Bom Jesus, Piauí"">Bom Jesus</a>,<a href=""/wiki/Piau%C3%AD"" title=""Piauí"">Piauí</a>","<span data-sort-value=""000000002005-11-21-0000"" style=""white-space:nowrap"">21 November 2005</span>"
+"<a href=""/wiki/Chile"" title=""Chile"">Chile</a>","<td>44.9 °C (112.8 °F)
+</td>","<a href=""/wiki/Quill%C3%B3n"" title=""Quillón"">Quillón</a>,<a href=""/wiki/Biobio_Region"" class=""mw-redirect"" title=""Biobio Region"">Biobio Region</a>,<a href=""#cite_note-158"">[note 13]</a>","<span data-sort-value=""000000002017-01-26-0000"" style=""white-space:nowrap"">26 January 2017</span>"
+"<a href=""/wiki/Colombia"" title=""Colombia"">Colombia</a>","<td>45.0 °C (113.0 °F)
+</td>","<a href=""/wiki/Puerto_Salgar"" title=""Puerto Salgar"">Puerto Salgar</a>,<a href=""/wiki/Cundinamarca_Department"" title=""Cundinamarca Department"">Cundinamarca</a>","<span data-sort-value=""000000002015-12-29-0000"" style=""white-space:nowrap"">29 December 2015</span>"
+"<a href=""/wiki/French_Guiana"" title=""French Guiana"">French Guiana</a>","<td>38.0 °C (100.4 °F)
+</td>","<a href=""/wiki/Saint-Laurent-du-Maroni"" title=""Saint-Laurent-du-Maroni"">Saint-Laurent-du-Maroni</a>","<span data-sort-value=""000000002016-09-27-0000"" style=""white-space:nowrap"">27 September 2016</span>"
+"<a href=""/wiki/Paraguay"" title=""Paraguay"">Paraguay</a>","<td>45.0 °C (113.0 °F)
+</td>","<a href=""/w/index.php?title=Pratts_Gill&amp;action=edit&amp;redlink=1"" class=""new"" title=""Pratts Gill (page does not exist)"">Pratts Gill</a>,<a href=""/wiki/Boquer%C3%B3n_Department"" class=""mw-redirect"" title=""Boquerón Department"">Boquerón Department</a>","<span data-sort-value=""000000002009-11-14-0000"" style=""white-space:nowrap"">14 November 2009</span>"
+"<a href=""/wiki/Uruguay"" title=""Uruguay"">Uruguay</a>","<td>44.0 °C (111.2 °F)
+</td>","<a href=""/wiki/Paysand%C3%BA"" title=""Paysandú"">Paysandú</a>,<a href=""/wiki/Paysand%C3%BA_Department"" title=""Paysandú Department"">Paysandú Department</a>","<span data-sort-value=""000000001943-01-20-0000"" style=""white-space:nowrap"">20 January 1943</span>"
+"<a href=""/wiki/Venezuela"" title=""Venezuela"">Venezuela</a>","<td>43.6 °C (110.5 °F)
+</td>","<a href=""/wiki/Santa_Ana_de_Coro"" class=""mw-redirect"" title=""Santa Ana de Coro"">Santa Ana de Coro</a>,<a href=""/wiki/Falc%C3%B3n"" title=""Falcón"">Falcón</a>","<span data-sort-value=""000000002015-04-29-0000"" style=""white-space:nowrap"">29 April 2015</span>"
+"<a href=""/wiki/Algeria"" title=""Algeria"">Algeria</a>","<td>−13.8 °C (7.2 °F)
+</td>","<a href=""/wiki/M%C3%A9cheria"" title=""Mécheria"">Mécheria</a>","<span data-sort-value=""000000002005-01-28-0000"" style=""white-space:nowrap"">28 January 2005</span>"
+"<a href=""/wiki/Burkina_Faso"" title=""Burkina Faso"">Burkina Faso</a>","<td>5 °C (41 °F)
+</td>","<a href=""/wiki/Markoye"" title=""Markoye"">Markoye</a>","<span data-sort-value=""000000001975-01-01-0000"" style=""white-space:nowrap"">January 1975</span>"
+"<a href=""/wiki/Botswana"" title=""Botswana"">Botswana</a>","<td>−15.0 °C (5.0 °F)
+</td>","<a href=""/wiki/Tsabong"" title=""Tsabong"">Tsabong</a>",
+"<a href=""/wiki/Eswatini"" title=""Eswatini"">Eswatini (Swaziland)</a>","<td>−6.7 °C (19.9 °F)
+</td>","<a href=""/wiki/Big_Bend,_Eswatini"" title=""Big Bend, Eswatini"">Big Bend</a>",
+"<a href=""/wiki/Ghana"" title=""Ghana"">Ghana</a>","<td>11.0 °C (51.8 °F)
+</td>","<a href=""/wiki/Kumasi"" title=""Kumasi"">Kumasi</a>,<a href=""/wiki/Tafo"" title=""Tafo"">Tafo</a>",
+"<a href=""/wiki/Guinea"" title=""Guinea"">Guinea</a>","<td>2.5 °C (36.5 °F)
+</td>","<a href=""/w/index.php?title=Bareing&amp;action=edit&amp;redlink=1"" class=""new"" title=""Bareing (page does not exist)"">Bareing</a>","<span data-sort-value=""000000001982-01-02-0000"" style=""white-space:nowrap"">2 January 1982</span>"
+"<a href=""/wiki/Lesotho"" title=""Lesotho"">Lesotho</a>","<td>−21.0 °C (−5.8 °F)
+</td>",,
+"<a href=""/wiki/Morocco"" title=""Morocco"">Morocco</a>,<a href=""/wiki/French_protectorate_in_Morocco"" title=""French protectorate in Morocco"">French protectorate in Morocco</a>","<td><i><b>−23.9 °C (−11.0 °F)</b></i>
+</td>","<a href=""/wiki/Ifrane"" title=""Ifrane"">Ifrane</a>","<span data-sort-value=""000000001935-02-11-0000"" style=""white-space:nowrap"">11 February 1935</span>"
+"<a href=""/wiki/Niger"" title=""Niger"">Niger</a>","<td>−2.4 °C (27.7 °F)
+</td>","<a href=""/wiki/Bilma"" title=""Bilma"">Bilma</a>","<span data-sort-value=""000000001995-01-13-0000"" style=""white-space:nowrap"">13 January 1995</span>"
+"<a href=""/wiki/R%C3%A9union"" title=""Réunion"">Réunion</a>","<td>−5.0 °C (23.0 °F)
+</td>","<a href=""/w/index.php?title=Gite_de_Bellecome&amp;action=edit&amp;redlink=1"" class=""new"" title=""Gite de Bellecome (page does not exist)"">Gite de Bellecome</a>","<span data-sort-value=""000000001975-09-10-0000"" style=""white-space:nowrap"">10 September 1975</span>"
+"<a href=""/wiki/South_Africa"" title=""South Africa"">South Africa</a>","<td>−20.1 °C (−4.2 °F)
+</td>","<a href=""/w/index.php?title=Buffelsfontein&amp;action=edit&amp;redlink=1"" class=""new"" title=""Buffelsfontein (page does not exist)"">Buffelsfontein</a>,<a href=""/wiki/Molteno,_Eastern_Cape"" title=""Molteno, Eastern Cape"">Molteno</a>,<a href=""/wiki/Eastern_Cape"" title=""Eastern Cape"">Eastern Cape</a>","<span data-sort-value=""000000002013-08-23-0000"" style=""white-space:nowrap"">23 August 2013</span>"
+"<a href=""/wiki/Sudan"" title=""Sudan"">Sudan</a>","<td>−1.0 °C (30.2 °F)
+</td>","<a href=""/wiki/Zalingei"" title=""Zalingei"">Zalingei</a>","<span data-sort-value=""000000001961-12-01-0000"" style=""white-space:nowrap"">December 1961</span>"
+"<a href=""/wiki/Antarctica"" title=""Antarctica"">Antarctica</a>","<td><i><b>−89.2 °C (−128.6 °F)</b></i>
+</td>","<a href=""/wiki/Vostok_Station"" title=""Vostok Station"">Vostok Station</a>","<span data-sort-value=""000000001983-07-21-0000"" style=""white-space:nowrap"">21 July 1983</span>"
+,"<td>−82.5 °C (−116.5 °F)
+</td>","<a href=""/wiki/Dome_A"" title=""Dome A"">Dome A</a>","<span data-sort-value=""000000002005-07-01-0000"" style=""white-space:nowrap"">July 2005</span>"
+"<a href=""/wiki/South_Pole"" title=""South Pole"">South Pole</a>","<td>−82.8 °C (−117.0 °F)
+</td>","<a href=""/wiki/Amundsen%E2%80%93Scott_South_Pole_Station"" title=""Amundsen–Scott South Pole Station"">Amundsen–Scott South Pole Station</a>","<span data-sort-value=""000000001982-06-23-0000"" style=""white-space:nowrap"">23 June 1982</span>"
+"<a href=""/wiki/Afghanistan"" title=""Afghanistan"">Afghanistan</a>","<td>−52.2 °C (−62.0 °F)
+</td>","<a href=""/wiki/Shahrak_District"" title=""Shahrak District"">Shahrak</a>","<span data-sort-value=""000000001964-01-01-0000"" style=""white-space:nowrap"">January 1964</span>"
+"<a href=""/wiki/Armenia"" title=""Armenia"">Armenia</a>,<a href=""/wiki/Armenian_Soviet_Socialist_Republic"" title=""Armenian Soviet Socialist Republic"">Armenian SSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>−42.0 °C (−43.6 °F)
+</td>","<a href=""/wiki/Paghakn"" title=""Paghakn"">Paghakn</a>,<a href=""/wiki/Ashocq"" class=""mw-redirect"" title=""Ashocq"">Ashocq</a>","<span data-sort-value=""000000001961-01-01-0000"" style=""white-space:nowrap"">1961</span>"
+"<a href=""/wiki/Azerbaijan"" title=""Azerbaijan"">Azerbaijan</a>","<td>−33.0 °C (−27.4 °F)
+</td>",,
+"<a href=""/wiki/Bangladesh"" title=""Bangladesh"">Bangladesh</a>","<td>2.6 °C (36.7 °F)
+</td>","<a href=""/wiki/Tetulia_Upazila"" title=""Tetulia Upazila"">Tetulia Upazila</a>,<a href=""/wiki/Panchagarh"" class=""mw-redirect"" title=""Panchagarh"">Panchagarh</a>","<span data-sort-value=""000000002018-01-08-0000"" style=""white-space:nowrap"">8 January 2018</span>"
+"<a href=""/wiki/China"" title=""China"">China</a>","<td>−58 °C (−72 °F)
+</td>","<a href=""/wiki/Genhe"" title=""Genhe"">Genhe</a>,<a href=""/wiki/Inner_Mongolia"" title=""Inner Mongolia"">Inner Mongolia</a>","<span data-sort-value=""000000002009-12-31-0000"" style=""white-space:nowrap"">31 December 2009</span>"
+"<a href=""/wiki/Hong_Kong"" title=""Hong Kong"">Hong Kong</a>","<td>−6.0 °C (21.2 °F)
+</td>","<a href=""/wiki/Tai_Mo_Shan"" title=""Tai Mo Shan"">Tai Mo Shan</a>","<span data-sort-value=""000000002016-01-24-0000"" style=""white-space:nowrap"">24 January 2016</span>"
+"<a href=""/wiki/India"" title=""India"">India</a>,<a href=""/wiki/File:Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg"" class=""image""><img alt=""Flag of Jammu-Kashmir-Maharaja-1846-1936.svg"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg/23px-Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg.png"" decoding=""async"" width=""23"" height=""15"" class=""thumbborder"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg/35px-Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg/46px-Flag_of_Jammu-Kashmir-Maharaja-1846-1936.svg.png 2x"" data-file-width=""900"" data-file-height=""600""></a>,<a href=""/wiki/Jammu_and_Kashmir_(princely_state)"" title=""Jammu and Kashmir (princely state)"">Jammu and Kashmir</a>,<a href=""/wiki/British_Raj"" title=""British Raj"">British Raj</a>","<td>−33.9 °C (−29.0 °F)
+</td>","<a href=""/wiki/Dras"" title=""Dras"">Dras</a>,<a href=""/wiki/Jammu_and_Kashmir"" class=""mw-redirect"" title=""Jammu and Kashmir"">Jammu and Kashmir</a>","<span data-sort-value=""000000001911-03-22-0000"" style=""white-space:nowrap"">22 March 1911</span>"
+"<a href=""/wiki/Iran"" title=""Iran"">Iran</a>","<td>−36.0 °C (−32.8 °F)
+</td>","<a href=""/wiki/Saqqez"" title=""Saqqez"">Saqqez</a>","<span data-sort-value=""000000001972-01-01-0000"" style=""white-space:nowrap"">1972</span>"
+"<a href=""/wiki/Israel"" title=""Israel"">Israel</a>","<td>−14.2 °C (6.4 °F)
+</td>","<a href=""/wiki/Merom_Golan"" title=""Merom Golan"">Merom Golan</a>","<span data-sort-value=""000000002015-01-10-0000"" style=""white-space:nowrap"">10 January 2015</span>"
+"<a href=""/wiki/Japan"" title=""Japan"">Japan</a>","<td>−41.0 °C (−41.8 °F)
+</td>","<a href=""/wiki/Asahikawa"" title=""Asahikawa"">Asahikawa</a>,<a href=""/wiki/Hokkaid%C5%8D"" class=""mw-redirect"" title=""Hokkaidō"">Hokkaidō</a>","<span data-sort-value=""000000001902-01-25-0000"" style=""white-space:nowrap"">25 January 1902</span>"
+"<a href=""/wiki/Jordan"" title=""Jordan"">Jordan</a>","<td>−16.0 °C (3.2 °F)
+</td>","<a href=""/wiki/Shoubak"" title=""Shoubak"">Shoubak</a>","<span data-sort-value=""000000002013-12-15-0000"" style=""white-space:nowrap"">15 December 2013</span>"
+"<a href=""/wiki/Kazakhstan"" title=""Kazakhstan"">Kazakhstan</a>","<td>−57.0 °C (−70.6 °F)
+</td>","<a href=""/wiki/Atbasar"" title=""Atbasar"">Atbasar</a>",
+"<a href=""/wiki/Kuwait"" title=""Kuwait"">Kuwait</a>","<td>−4.8 °C (23.4 °F)
+</td>","<a href=""/w/index.php?title=Salmy&amp;action=edit&amp;redlink=1"" class=""new"" title=""Salmy (page does not exist)"">Salmy</a>","<span data-sort-value=""000000002009-01-03-0000"" style=""white-space:nowrap"">3 January 2009</span>"
+"<a href=""/wiki/Kyrgyzstan"" title=""Kyrgyzstan"">Kyrgyzstan</a>","<td>−53.6 °C (−64.5 °F)
+</td>","<a href=""/wiki/Fergana_Valley"" title=""Fergana Valley"">Fergana Valley</a>",
+"<a href=""/wiki/Malaysia"" title=""Malaysia"">Malaysia</a>","<td>7.8 °C (46.0 °F)
+</td>","<a href=""/wiki/Cameron_Highlands"" class=""mw-redirect"" title=""Cameron Highlands"">Cameron Highlands</a>","<span data-sort-value=""000000001978-02-01-0000"" style=""white-space:nowrap"">1 February 1978</span>"
+"<a href=""/wiki/Maldives"" title=""Maldives"">Maldives</a>","<td>17.2 °C (63.0 °F)
+</td>","<a href=""/wiki/Hulhul%C3%A9_Island"" title=""Hulhulé Island"">Hulhulé Island</a>,<a href=""/wiki/Ibrahim_Nasir_International_Airport"" class=""mw-redirect"" title=""Ibrahim Nasir International Airport"">Ibrahim Nasir International Airport</a>","<span data-sort-value=""000000001978-04-11-0000"" style=""white-space:nowrap"">11 April 1978</span>"
+"<a href=""/wiki/Mongolia"" title=""Mongolia"">Mongolia</a>","<td>−55.3 °C (−67.5 °F)
+</td>","<a href=""/wiki/Z%C3%BC%C3%BCngovi,_Uvs"" title=""Züüngovi, Uvs"">Züüngovi</a>,<a href=""/wiki/Uvs_Province"" title=""Uvs Province"">Uvs Province</a>","<span data-sort-value=""000000001976-12-31-0000"" style=""white-space:nowrap"">31 December 1976</span>"
+"<a href=""/wiki/Myanmar"" title=""Myanmar"">Myanmar</a>","<td>−6.0 °C (21.2 °F)
+</td>","<a href=""/wiki/Hakha"" title=""Hakha"">Hakha</a>","<span data-sort-value=""000000001990-12-30-0000"" style=""white-space:nowrap"">30 December 1990</span>"
+"<a href=""/wiki/Nepal"" title=""Nepal"">Nepal</a>","<td>−45 °C (−49 °F)
+</td>","<a href=""/w/index.php?title=Sagarmantha&amp;action=edit&amp;redlink=1"" class=""new"" title=""Sagarmantha (page does not exist)"">Sagarmantha</a>",
+"<a href=""/wiki/North_Korea"" title=""North Korea"">North Korea</a>,<a href=""/wiki/Japanese_Korea"" class=""mw-redirect"" title=""Japanese Korea"">Japanese Korea</a>","<td>−43.6 °C (−46.5 °F)
+</td>","<a href=""/wiki/Chunggangjin"" class=""mw-redirect"" title=""Chunggangjin"">Chunggangjin</a>","<span data-sort-value=""000000001933-01-12-0000"" style=""white-space:nowrap"">12 January 1933</span>"
+"<a href=""/wiki/Pakistan"" title=""Pakistan"">Pakistan</a>","<td>−24 °C (−11 °F)
+</td>","<a href=""/wiki/Skardu"" title=""Skardu"">Skardu</a>","<span data-sort-value=""000000001995-01-07-0000"" style=""white-space:nowrap"">7 January 1995</span>"
+"<a href=""/wiki/Philippines"" title=""Philippines"">Philippines</a>","<td>6.3 °C (43.3 °F)
+</td>","<a href=""/wiki/Baguio"" title=""Baguio"">Baguio</a>","<span data-sort-value=""000000001961-01-18-0000"" style=""white-space:nowrap"">18 January 1961</span>"
+"<a href=""/wiki/Qatar"" title=""Qatar"">Qatar</a>","<td>1.5 °C (34.7 °F)
+</td>","<a href=""/wiki/Abu_Samra"" title=""Abu Samra"">Abu Samra</a>","<span data-sort-value=""000000002017-02-05-0000"" style=""white-space:nowrap"">5 February 2017</span>"
+"<a href=""/wiki/Russia"" title=""Russia"">Russia</a>,<a href=""/wiki/Russian_Empire"" title=""Russian Empire"">Russian Empire</a>,<a href=""/wiki/Russian_Soviet_Federative_Socialist_Republic"" title=""Russian Soviet Federative Socialist Republic"">Russian SFSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td><i><b>−67.8 °C (−90.0 °F)</b></i>
+</td>","<a href=""/wiki/Verkhoyansk"" title=""Verkhoyansk"">Verkhoyansk</a>,<a href=""/wiki/Oymyakon"" title=""Oymyakon"">Oymyakon</a>,<a href=""/wiki/Sakha_Republic"" class=""mw-redirect"" title=""Sakha Republic"">Sakha Republic</a>",
+"<a href=""/wiki/Saudi_Arabia"" title=""Saudi Arabia"">Saudi Arabia</a>","<td>−12.0 °C (10.4 °F)
+</td>","<a href=""/wiki/Turaif"" class=""mw-redirect"" title=""Turaif"">Turaif</a>",
+"<a href=""/wiki/Singapore"" title=""Singapore"">Singapore</a>","<td>19.0 °C (66.2 °F)
+</td>","<a href=""/wiki/Paya_Lebar"" title=""Paya Lebar"">Paya Lebar</a>","<span data-sort-value=""000000001989-02-14-0000"" style=""white-space:nowrap"">14 February 1989</span>"
+"<a href=""/wiki/South_Korea"" title=""South Korea"">South Korea</a>","<td>−32.6 °C (−26.7 °F)
+</td>","<a href=""/wiki/Yangpyeong"" class=""mw-redirect"" title=""Yangpyeong"">Yangpyeong</a>",
+"<a href=""/wiki/Syria"" title=""Syria"">Syria</a>","<td>−23.0 °C (−9.4 °F)
+</td>","<a href=""/wiki/Idlib"" title=""Idlib"">Idlib</a>","<span data-sort-value=""000000001951-01-01-0000"" style=""white-space:nowrap"">January 1951</span>"
+"<a href=""/wiki/Taiwan"" title=""Taiwan"">Taiwan</a>","<td>−18.4 °C (−1.1 °F)
+</td>","<a href=""/wiki/Yushan_National_Park"" title=""Yushan National Park"">Yushan</a>","<span data-sort-value=""000000001970-01-31-0000"" style=""white-space:nowrap"">31 January 1970</span>"
+"<a href=""/wiki/Thailand"" title=""Thailand"">Thailand</a>","<td>−1.4 °C (29.5 °F)
+</td>","<a href=""/wiki/Sakon_Nakhon_Province"" title=""Sakon Nakhon Province"">Sakon Nakhon</a>","<span data-sort-value=""000000001974-01-02-0000"" style=""white-space:nowrap"">2 January 1974</span>"
+"<a href=""/wiki/Turkey"" title=""Turkey"">Turkey</a>","<td>−46.4 °C (−51.5 °F)
+</td>","<a href=""/wiki/%C3%87ald%C4%B1ran_(District),_Van"" class=""mw-redirect"" title=""Çaldıran (District), Van"">Çaldıran</a>,<a href=""/wiki/Van_Province"" title=""Van Province"">Van Province</a>","<span data-sort-value=""000000001990-01-09-0000"" style=""white-space:nowrap"">9 January 1990</span>"
+"<a href=""/wiki/Turkmenistan"" title=""Turkmenistan"">Turkmenistan</a>","<td>−36.0 °C (−32.8 °F)
+</td>","<a href=""/wiki/Da%C5%9Foguz_Region"" title=""Daşoguz Region"">Daşoguz Region</a>",
+"<a href=""/wiki/United_Arab_Emirates"" title=""United Arab Emirates"">United Arab Emirates</a>","<td>−5.4 °C (22.3 °F)
+</td>","<a href=""/wiki/Jebel_Jais"" title=""Jebel Jais"">Jebel Jais</a>","<span data-sort-value=""000000002017-02-03-0000"" style=""white-space:nowrap"">3 February 2017</span>"
+"<a href=""/wiki/Vietnam"" title=""Vietnam"">Vietnam</a>,<a href=""/wiki/Democratic_Republic_of_Vietnam"" class=""mw-redirect"" title=""Democratic Republic of Vietnam"">DR Vietnam</a>","<td>−6.1 °C (21.0 °F)
+</td>","<a href=""/wiki/Sa_Pa_(town)"" class=""mw-redirect"" title=""Sa Pa (town)"">Sa Pa</a>","<span data-sort-value=""000000001974-01-04-0000"" style=""white-space:nowrap"">4 January 1974</span>"
+"<a href=""/wiki/Albania"" title=""Albania"">Albania</a>","<td>−25.8 °C (−14.4 °F)
+</td>",,
+"<a href=""/wiki/Austria"" title=""Austria"">Austria</a>","<td>−52.6 °C (−62.7 °F)
+</td>","<a href=""/w/index.php?title=Gr%C3%BCnloch&amp;action=edit&amp;redlink=1"" class=""new"" title=""Grünloch (page does not exist)"">Grünloch</a>","<span data-sort-value=""000000001932-02-19-0000"" style=""white-space:nowrap"">19 February 1932</span>"
+"<a href=""/wiki/Belarus"" title=""Belarus"">Belarus</a>,<a href=""/wiki/Byelorussian_Soviet_Socialist_Republic"" title=""Byelorussian Soviet Socialist Republic"">Byelorussian SSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>−42.2 °C (−44.0 °F)
+</td>","<a href=""/w/index.php?title=Slavnom&amp;action=edit&amp;redlink=1"" class=""new"" title=""Slavnom (page does not exist)"">Slavnom</a>,<a href=""/wiki/Vitsebsk_Voblast"" class=""mw-redirect"" title=""Vitsebsk Voblast"">Vitsebsk Voblast</a>","<span data-sort-value=""000000001940-01-17-0000"" style=""white-space:nowrap"">17 January 1940</span>"
+"<a href=""/wiki/Belgium"" title=""Belgium"">Belgium</a>","<td>−30.1 °C (−22.2 °F)
+</td>","<a href=""/wiki/Lesse"" title=""Lesse"">Lesse</a>,<a href=""/wiki/Rochefort,_Belgium"" title=""Rochefort, Belgium"">Rochefort</a>","<span data-sort-value=""000000001940-01-20-0000"" style=""white-space:nowrap"">20 January 1940</span>"
+"<a href=""/wiki/Bosnia_and_Herzegovina"" title=""Bosnia and Herzegovina"">Bosnia and Herzegovina</a>,<a href=""/wiki/Socialist_Republic_of_Bosnia_and_Herzegovina"" title=""Socialist Republic of Bosnia and Herzegovina"">SR Bosnia and Herzegovina</a>,<a href=""/wiki/Socialist_Federal_Republic_of_Yugoslavia"" title=""Socialist Federal Republic of Yugoslavia"">SFR Yugoslavia</a>","<td>−42.5 °C (−44.5 °F)
+</td>","<a href=""/wiki/Igman"" title=""Igman"">Igman</a>,<a href=""/wiki/Sarajevo_Canton"" title=""Sarajevo Canton"">Sarajevo Canton</a>","<span data-sort-value=""000000001963-01-24-0000"" style=""white-space:nowrap"">24 January 1963</span>"
+"<a href=""/wiki/Bulgaria"" title=""Bulgaria"">Bulgaria</a>","<td>−38.3 °C (−36.9 °F)
+</td>","<a href=""/wiki/Tran,_Bulgaria"" title=""Tran, Bulgaria"">Tran</a>","<span data-sort-value=""000000001947-01-25-0000"" style=""white-space:nowrap"">25 January 1947</span>"
+"<a href=""/wiki/Croatia"" title=""Croatia"">Croatia</a>","<td>−34.6 °C (−30.3 °F)
+</td>","<a href=""/wiki/Gra%C4%8Dac"" title=""Gračac"">Gračac</a>","<span data-sort-value=""000000002003-01-13-0000"" style=""white-space:nowrap"">13 January 2003</span>"
+"<a href=""/wiki/Cyprus"" title=""Cyprus"">Cyprus</a>","<td>−16 °C (3 °F)
+</td>",,
+"<a href=""/wiki/Czech_Republic"" title=""Czech Republic"">Czech Republic</a>,<a href=""/wiki/Czechoslovakia"" title=""Czechoslovakia"">Czechoslovakia</a>","<td>−42.2 °C (−44.0 °F)
+</td>","<a href=""/wiki/Litv%C3%ADnovice"" title=""Litvínovice"">Litvínovice</a>","<span data-sort-value=""000000001929-02-11-0000"" style=""white-space:nowrap"">11 February 1929</span>"
+"<a href=""/wiki/Denmark"" title=""Denmark"">Denmark</a>","<td>−31.2 °C (−24.2 °F)
+</td>","<a href=""/wiki/Thisted_Municipality"" title=""Thisted Municipality"">Thisted Municipality</a>,<a href=""/wiki/North_Denmark_Region"" class=""mw-redirect"" title=""North Denmark Region"">North Denmark Region</a>","<span data-sort-value=""000000001982-01-08-0000"" style=""white-space:nowrap"">8 January 1982</span>"
+"<a href=""/wiki/Estonia"" title=""Estonia"">Estonia</a>","<td>−43.5 °C (−46.3 °F)
+</td>","<a href=""/wiki/J%C3%B5geva"" title=""Jõgeva"">Jõgeva</a>,<a href=""/wiki/J%C3%B5geva_County"" title=""Jõgeva County"">Jõgeva County</a>","<span data-sort-value=""000000001940-01-17-0000"" style=""white-space:nowrap"">17 January 1940</span>"
+"<a href=""/wiki/Finland"" title=""Finland"">Finland</a>","<td>−51.5 °C (−60.7 °F)
+</td>","<a href=""/wiki/Kittil%C3%A4"" title=""Kittilä"">Kittilä</a>,<a href=""/wiki/Lapland_(Finland)"" title=""Lapland (Finland)"">Lapland</a>","<span data-sort-value=""000000001999-01-28-0000"" style=""white-space:nowrap"">28 January 1999</span>"
+"<a href=""/wiki/France"" title=""France"">France</a>","<td>−41.0 °C (−41.8 °F)
+</td>","<a href=""/wiki/Mouthe"" title=""Mouthe"">Mouthe</a>,<a href=""/wiki/Doubs"" title=""Doubs"">Doubs</a>","<span data-sort-value=""000000001985-01-17-0000"" style=""white-space:nowrap"">17 January 1985</span>"
+"<a href=""/wiki/Germany"" title=""Germany"">Germany</a>","<td>−45.9 °C (−50.6 °F)
+</td>","<a href=""/wiki/Funtensee"" title=""Funtensee"">Funtensee</a>,<a href=""/wiki/Berchtesgadener_Land"" title=""Berchtesgadener Land"">Berchtesgadener Land</a>,<a href=""/wiki/Bavaria"" title=""Bavaria"">Bavaria</a>","<span data-sort-value=""000000002001-12-24-0000"" style=""white-space:nowrap"">24 December 2001</span>"
+"<a href=""/wiki/Greece"" title=""Greece"">Greece</a>","<td>−27.8 °C (−18.0 °F)
+</td>","<a href=""/wiki/Ptolemaida"" title=""Ptolemaida"">Ptolemaida</a>","<span data-sort-value=""000000001963-01-27-0000"" style=""white-space:nowrap"">27 January 1963</span>"
+"<a href=""/wiki/Hungary"" title=""Hungary"">Hungary</a>","<td>−35 °C (−31 °F)
+</td>","<a href=""/wiki/G%C3%B6r%C3%B6mb%C3%B6lytapolca"" class=""mw-redirect"" title=""Görömbölytapolca"">Görömbölytapolca</a>","<span data-sort-value=""000000001940-02-16-0000"" style=""white-space:nowrap"">16 February 1940</span>"
+"<a href=""/wiki/Iceland"" title=""Iceland"">Iceland</a>,<a href=""/wiki/Iceland#1814%E2%80%931918:_Independence_movement"" title=""Iceland"">Danish Iceland</a>","<td>−37.9 °C (−36.2 °F)
+</td>","<a href=""/wiki/Gr%C3%ADmssta%C3%B0ir"" title=""Grímsstaðir"">Grímsstaðir</a>","<span data-sort-value=""000000001918-01-21-0000"" style=""white-space:nowrap"">21 January 1918</span>"
+"<a href=""/wiki/Republic_of_Ireland"" title=""Republic of Ireland"">Ireland</a>,<a href=""/wiki/United_Kingdom"" title=""United Kingdom"">United Kingdom</a>","<td>−19.1 °C (−2.4 °F)
+</td>","<a href=""/wiki/Markree_Castle"" title=""Markree Castle"">Markree Castle</a>,<a href=""/wiki/County_Sligo"" title=""County Sligo"">County Sligo</a>","<span data-sort-value=""000000001881-01-16-0000"" style=""white-space:nowrap"">16 January 1881</span>"
+"<a href=""/wiki/Italy"" title=""Italy"">Italy</a>","<td>−49.6 °C (−57.3 °F)
+</td>","<a href=""/w/index.php?title=Busa_Fradusta&amp;action=edit&amp;redlink=1"" class=""new"" title=""Busa Fradusta (page does not exist)"">Busa Fradusta</a>,<a href=""/wiki/Pale_di_San_Martino"" class=""mw-redirect"" title=""Pale di San Martino"">Pale di San Martino</a>","<span data-sort-value=""000000002013-02-10-0000"" style=""white-space:nowrap"">10 February 2013</span>"
+"<a href=""/wiki/Latvia"" title=""Latvia"">Latvia</a>,<a href=""/wiki/Latvian_Soviet_Socialist_Republic"" title=""Latvian Soviet Socialist Republic"">Latvian SSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>−43.2 °C (−45.8 °F)
+</td>","<a href=""/wiki/Daugavpils"" title=""Daugavpils"">Daugavpils</a>","<span data-sort-value=""000000001956-02-08-0000"" style=""white-space:nowrap"">8 February 1956</span>"
+"<a href=""/wiki/Lithuania"" title=""Lithuania"">Lithuania</a>,<a href=""/wiki/Lithuanian_Soviet_Socialist_Republic"" title=""Lithuanian Soviet Socialist Republic"">Lithuanian SSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>−42.9 °C (−45.2 °F)
+</td>","<a href=""/wiki/Utena,_Lithuania"" class=""mw-redirect"" title=""Utena, Lithuania"">Utena</a>,<a href=""/wiki/Utena_County"" title=""Utena County"">Utena County</a>","<span data-sort-value=""000000001956-02-01-0000"" style=""white-space:nowrap"">1 February 1956</span>"
+"<a href=""/wiki/Malta"" title=""Malta"">Malta</a>","<td>1.4 °C (34.5 °F)
+</td>","<a href=""/wiki/Malta_International_Airport"" title=""Malta International Airport"">Malta International Airport</a>","<span data-sort-value=""000000001981-01-29-0000"" style=""white-space:nowrap"">29 January 1981</span>"
+"<a href=""/wiki/Moldova"" title=""Moldova"">Moldova</a>","<td>−35.5 °C (−31.9 °F)
+</td>","<a href=""/wiki/Br%C4%83tu%C8%99eni"" title=""Brătușeni"">Brătușeni</a>,<a href=""/wiki/Edine%C8%9B_District"" title=""Edineț District"">Edineț District</a>","<span data-sort-value=""000000001963-01-20-0000"" style=""white-space:nowrap"">20 January 1963</span>"
+"<a href=""/wiki/Netherlands"" title=""Netherlands"">Netherlands</a>,<a href=""/wiki/Netherlands_in_World_War_II"" title=""Netherlands in World War II"">Nazi-occupied Netherlands</a>","<td>−27.4 °C (−17.3 °F)
+</td>","<a href=""/wiki/Winterswijk"" title=""Winterswijk"">Winterswijk</a>","<span data-sort-value=""000000001942-01-27-0000"" style=""white-space:nowrap"">27 January 1942</span>"
+"<a href=""/wiki/North_Macedonia"" title=""North Macedonia"">North Macedonia</a>,<a href=""/wiki/Socialist_Republic_of_Macedonia"" title=""Socialist Republic of Macedonia"">SR Macedonia</a>,<a href=""/wiki/Socialist_Federal_Republic_of_Yugoslavia"" title=""Socialist Federal Republic of Yugoslavia"">SFR Yugoslavia</a>","<td>−31.5 °C (−24.7 °F)
+</td>","<a href=""/wiki/Berovo"" title=""Berovo"">Berovo</a>,<a href=""/wiki/Berovo_Municipality"" title=""Berovo Municipality"">Berovo Municipality</a>","<span data-sort-value=""000000001954-01-27-0000"" style=""white-space:nowrap"">27 January 1954</span>"
+"<a href=""/wiki/Norway"" title=""Norway"">Norway</a>,<a href=""/wiki/Union_between_Sweden_and_Norway"" title=""Union between Sweden and Norway"">Sweden–Norway</a>","<td>−51.4 °C (−60.5 °F)
+</td>","<a href=""/wiki/Karasjok"" title=""Karasjok"">Karasjok</a>,<a href=""/wiki/Finnmark"" title=""Finnmark"">Finnmark</a>","<span data-sort-value=""000000001886-01-01-0000"" style=""white-space:nowrap"">1 January 1886</span>"
+"<a href=""/wiki/Poland"" title=""Poland"">Poland</a>","<td>−41.0 °C (−41.8 °F)
+</td>","<a href=""/wiki/Siedlce"" title=""Siedlce"">Siedlce</a>,<a href=""/wiki/Masovian_Voivodeship"" title=""Masovian Voivodeship"">Masovian Voivodeship</a>","<span data-sort-value=""000000001940-01-11-0000"" style=""white-space:nowrap"">11 January 1940</span>"
+"<a href=""/wiki/Portugal"" title=""Portugal"">Portugal</a>","<td>−16.0 °C (3.2 °F)
+</td>","<a href=""/wiki/Penhas_da_Sa%C3%BAde"" title=""Penhas da Saúde"">Penhas da Saúde</a>,<a href=""/wiki/Covilh%C3%A3_Municipality"" class=""mw-redirect"" title=""Covilhã Municipality"">Covilhã Municipality</a>,<a href=""/wiki/Miranda_do_Douro"" title=""Miranda do Douro"">Miranda do Douro</a>","<span data-sort-value=""000000001945-01-16-0000"" style=""white-space:nowrap"">16 January 1945</span>"
+"<a href=""/wiki/Romania"" title=""Romania"">Romania</a>","<td>−38.5 °C (−37.3 °F)
+</td>","<a href=""/wiki/Bod,_Bra%C5%9Fov"" class=""mw-redirect"" title=""Bod, Braşov"">Bod</a>,<a href=""/wiki/Bra%C5%9Fov_County"" class=""mw-redirect"" title=""Braşov County"">Braşov County</a>","<span data-sort-value=""000000001942-01-25-0000"" style=""white-space:nowrap"">25 January 1942</span>"
+"<a href=""/wiki/European_Russia"" title=""European Russia"">European Russia</a>,<a href=""/wiki/Russian_Soviet_Federative_Socialist_Republic"" title=""Russian Soviet Federative Socialist Republic"">Russian SFSR</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td><i><b>−58.1 °C (−72.6 °F)</b></i>
+</td>","<a href=""/wiki/Ust%27_Shchugor"" class=""mw-redirect"" title=""Ust' Shchugor"">Ust' Shchugor</a>,<a href=""/wiki/Komi_Republic"" title=""Komi Republic"">Komi Republic</a>","<span data-sort-value=""000000001978-12-31-0000"" style=""white-space:nowrap"">31 December 1978</span>"
+"<a href=""/wiki/Serbia"" title=""Serbia"">Serbia</a>","<td>−39.8 °C (−39.6 °F)
+</td>","<a href=""/wiki/Karajukica_Bunari"" class=""mw-redirect"" title=""Karajukica Bunari"">Karajukica Bunari</a>,<a href=""/wiki/Zlatibor_District"" title=""Zlatibor District"">Zlatibor District</a>","<span data-sort-value=""000000002006-01-26-0000"" style=""white-space:nowrap"">26 January 2006</span>"
+"<a href=""/wiki/Slovakia"" title=""Slovakia"">Slovakia</a>,<a href=""/wiki/Czechoslovakia"" title=""Czechoslovakia"">Czechoslovakia</a>","<td>−41.0 °C (−41.8 °F)
+</td>","<a href=""/wiki/V%C3%ADg%C4%BEa%C5%A1"" title=""Vígľaš"">Vígľaš-Pstruša</a>","<span data-sort-value=""000000001929-02-11-0000"" style=""white-space:nowrap"">11 February 1929</span>"
+"<a href=""/wiki/Slovenia"" title=""Slovenia"">Slovenia</a>,<a href=""/wiki/Socialist_Republic_of_Slovenia"" title=""Socialist Republic of Slovenia"">SR Slovenia</a>,<a href=""/wiki/Socialist_Federal_Republic_of_Yugoslavia"" title=""Socialist Federal Republic of Yugoslavia"">SFR Yugoslavia</a>","<td>−34.5 °C (−30.1 °F)
+</td>","<a href=""/wiki/Babno_Polje"" title=""Babno Polje"">Babno Polje</a>","<span data-sort-value=""000000001956-02-15-0000"" style=""white-space:nowrap"">15 February 1956</span>"
+"<a href=""/wiki/Spain"" title=""Spain"">Spain</a>","<td>−30 °C (−22 °F)
+</td>","<a href=""/wiki/Calamocha"" title=""Calamocha"">Calamocha</a>,<a href=""/wiki/Province_of_Teruel"" title=""Province of Teruel"">Teruel Province</a>","<span data-sort-value=""000000001963-12-17-0000"" style=""white-space:nowrap"">17 December 1963</span>"
+"<a href=""/wiki/Sweden"" title=""Sweden"">Sweden</a>","<td>−52.6 °C (−62.7 °F)
+</td>","<a href=""/w/index.php?title=Vuoggatj%C3%A5lme&amp;action=edit&amp;redlink=1"" class=""new"" title=""Vuoggatjålme (page does not exist)"">Vuoggatjålme</a>,<a href=""/wiki/Lapland_(Sweden)"" title=""Lapland (Sweden)"">Lappland</a>","<span data-sort-value=""000000001966-02-02-0000"" style=""white-space:nowrap"">2 February 1966</span>"
+"<a href=""/wiki/Switzerland"" title=""Switzerland"">Switzerland</a>","<td>−41.8 °C (−43.2 °F)
+</td>","<a href=""/wiki/La_Br%C3%A9vine"" title=""La Brévine"">La Brévine</a>","<span data-sort-value=""000000001987-01-12-0000"" style=""white-space:nowrap"">12 January 1987</span>"
+"<a href=""/wiki/Ukraine"" title=""Ukraine"">Ukraine</a>,<a href=""/wiki/Ukrainian_Soviet_Socialist_Republic"" title=""Ukrainian Soviet Socialist Republic"">Ukrainian Socialist Soviet Republic</a>,<a href=""/wiki/Soviet_Union"" title=""Soviet Union"">Soviet Union</a>","<td>−41.9 °C (−43.4 °F)
+</td>","<a href=""/wiki/Luhansk"" title=""Luhansk"">Luhansk</a>","<span data-sort-value=""000000001935-01-08-0000"" style=""white-space:nowrap"">8 January 1935</span>"
+"<a href=""/wiki/United_Kingdom"" title=""United Kingdom"">United Kingdom</a>","<td>−27.2 °C (−17.0 °F)
+</td>","<a href=""/wiki/Braemar"" title=""Braemar"">Braemar</a>,<a href=""/wiki/Aberdeenshire"" title=""Aberdeenshire"">Aberdeenshire</a>,<a href=""/wiki/Altnaharra"" title=""Altnaharra"">Altnaharra</a>,<a href=""/wiki/Sutherland"" title=""Sutherland"">Sutherland</a>","<span data-sort-value=""000000001895-02-11-0000"" style=""white-space:nowrap"">11 February 1895</span>"
+"<a href=""/wiki/Antigua_and_Barbuda"" title=""Antigua and Barbuda"">Antigua and Barbuda</a>","<td>16.1 °C (61.0 °F)
+</td>","<a href=""/wiki/V._C._Bird_International_Airport"" title=""V. C. Bird International Airport"">V. C. Bird International Airport</a>,<a href=""/wiki/Antigua"" title=""Antigua"">Antigua</a>",
+"<a href=""/wiki/Canada"" title=""Canada"">Canada</a>","<td>−63.0 °C (−81.4 °F)
+</td>","<a href=""/wiki/Snag,_Yukon"" title=""Snag, Yukon"">Snag</a>,<a href=""/wiki/Yukon"" title=""Yukon"">Yukon</a>",
+"<a href=""/wiki/Cayman_Islands"" title=""Cayman Islands"">Cayman Islands</a>","<td>11.1 °C (52.0 °F)
+</td>","<a href=""/wiki/Owen_Roberts_International_Airport"" title=""Owen Roberts International Airport"">Owen Roberts International Airport</a>,<a href=""/wiki/Grand_Cayman"" title=""Grand Cayman"">Grand Cayman</a>",
+"<a href=""/wiki/Cuba"" title=""Cuba"">Cuba</a>","<td>0.6 °C (33.1 °F)
+</td>","<a href=""/wiki/Mayabeque_Province"" title=""Mayabeque Province"">Mayabeque Province</a>",
+"<a href=""/wiki/Dominican_Republic"" title=""Dominican Republic"">Dominican Republic</a>","<td>−7.0 °C (19.4 °F)
+</td>","<a href=""/wiki/La_Vega_Province"" title=""La Vega Province"">La Vega Province</a>",
+"<a href=""/wiki/Greenland"" title=""Greenland"">Greenland</a>","<td><i><b>−66.1 °C (−87.0 °F)</b></i>
+</td>","<a href=""/wiki/North_Ice"" title=""North Ice"">North Ice</a>",
+"<a href=""/wiki/Guatemala"" title=""Guatemala"">Guatemala</a>","<td>−11.5 °C (11.3 °F)
+</td>","<a href=""/wiki/Olintepeque"" title=""Olintepeque"">Olintepeque</a>,<a href=""/wiki/Quetzaltenango_Department"" title=""Quetzaltenango Department"">Quetzaltenango Department</a>",
+"<a href=""/wiki/Martinique"" title=""Martinique"">Martinique</a>","<td>14.1 °C (57.4 °F)
+</td>","<a href=""/wiki/Le_Lamentin"" title=""Le Lamentin"">Le Lamentin</a>","<span data-sort-value=""000000001964-12-25-0000"" style=""white-space:nowrap"">25 December 1964</span>"
+"<a href=""/wiki/Panama"" title=""Panama"">Panama</a>","<td>2.0 °C (35.6 °F)
+</td>","<a href=""/wiki/Chiriqu%C3%AD_Province"" title=""Chiriquí Province"">Chiriquí Province</a>",
+"<a href=""/wiki/Puerto_Rico"" title=""Puerto Rico"">Puerto Rico</a>","<td>4.4 °C (40 °F)
+</td>","<a href=""/wiki/Aibonito"" class=""mw-redirect"" title=""Aibonito"">Aibonito</a>,<a href=""/wiki/San_Sebasti%C3%A1n,_Puerto_Rico"" title=""San Sebastián, Puerto Rico"">San Sebastian</a>",
+"<a href=""/wiki/United_States_Virgin_Islands"" title=""United States Virgin Islands"">US Virgin Islands</a>","<td>10.6 °C (51 °F)
+</td>","<a href=""/wiki/Anna%27s_Hope,_U.S._Virgin_Islands"" title=""Anna's Hope, U.S. Virgin Islands"">Anna's Hope</a>,<a href=""/wiki/Saint_Croix,_U.S._Virgin_Islands"" class=""mw-redirect"" title=""Saint Croix, U.S. Virgin Islands"">Saint Croix</a>",
+"<a href=""/wiki/United_States"" title=""United States"">United States</a>,<a href=""/wiki/Alaska"" title=""Alaska"">Alaska</a>","<td>−62.2 °C (−80 °F)
+</td>","<a href=""/wiki/Prospect_Creek,_Alaska"" title=""Prospect Creek, Alaska"">Prospect Creek</a>,<a href=""/wiki/Alaska"" title=""Alaska"">Alaska</a>",
+"<a href=""/wiki/United_States"" title=""United States"">United States</a>","<td>−56.7 °C (−70 °F)
+</td>","<a href=""/wiki/Rogers_Pass_(Montana)"" title=""Rogers Pass (Montana)"">Rogers Pass</a>,<a href=""/wiki/Montana"" title=""Montana"">Montana</a>",
+"<a href=""/wiki/Argentina"" title=""Argentina"">Argentina</a>","<td><i><b>−32.8 °C (−27.0 °F)</b></i>
+</td>","<a href=""/wiki/Sarmiento,_Chubut"" title=""Sarmiento, Chubut"">Sarmiento</a>,<a href=""/wiki/Chubut_Province"" title=""Chubut Province"">Chubut Province</a>","<span data-sort-value=""000000001907-06-01-0000"" style=""white-space:nowrap"">1 June 1907</span>"
+"<a href=""/wiki/Brazil"" title=""Brazil"">Brazil</a>","<td>−14.0 °C (6.8 °F)
+</td>","<a href=""/wiki/Ca%C3%A7ador"" title=""Caçador"">Caçador</a>,<a href=""/wiki/Santa_Catarina_(state)"" title=""Santa Catarina (state)"">Santa Catarina</a>","<span data-sort-value=""000000001952-06-11-0000"" style=""white-space:nowrap"">11 June 1952</span>"
+"<a href=""/wiki/Colombia"" title=""Colombia"">Colombia</a>","<td>−11.0 °C (12.2 °F)
+</td>","<a href=""/w/index.php?title=P%C3%A1ramo_de_Berl%C3%ADn&amp;action=edit&amp;redlink=1"" class=""new"" title=""Páramo de Berlín (page does not exist)"">Páramo de Berlín</a>,<a href=""/wiki/Tona,_Santander"" title=""Tona, Santander"">Tona</a>,<a href=""/wiki/Santander_Department"" title=""Santander Department"">Santander</a>","<span data-sort-value=""000000001974-12-11-0000"" style=""white-space:nowrap"">11 December 1974</span>"
+"<a href=""/wiki/French_Guiana"" title=""French Guiana"">French Guiana</a>","<td>16.9 °C (62.4 °F)
+</td>","<a href=""/wiki/Maripasoula"" title=""Maripasoula"">Maripasoula</a>","<span data-sort-value=""000000001964-01-23-0000"" style=""white-space:nowrap"">23 January 1964</span>"
+"<a href=""/wiki/Paraguay"" title=""Paraguay"">Paraguay</a>","<td>−7.5 °C (18.5 °F)
+</td>","<a href=""/w/index.php?title=Pratts_Gill&amp;action=edit&amp;redlink=1"" class=""new"" title=""Pratts Gill (page does not exist)"">Pratts Gill</a>,<a href=""/wiki/Boquer%C3%B3n_Department"" class=""mw-redirect"" title=""Boquerón Department"">Boquerón Department</a>","<span data-sort-value=""000000002000-07-13-0000"" style=""white-space:nowrap"">13 July 2000</span>"
+"<a href=""/wiki/Peru"" title=""Peru"">Peru</a>","<td>−25.2 °C (−13.4 °F)
+</td>","<a href=""/w/index.php?title=Mazo_Cruz&amp;action=edit&amp;redlink=1"" class=""new"" title=""Mazo Cruz (page does not exist)"">Mazo Cruz</a>,<a href=""/wiki/Puno_Region"" class=""mw-redirect"" title=""Puno Region"">Puno Region</a>","<span data-sort-value=""000000001966-06-30-0000"" style=""white-space:nowrap"">30 June 1966</span>"
+"<a href=""/wiki/Uruguay"" title=""Uruguay"">Uruguay</a>","<td>−11.0 °C (12.2 °F)
+</td>","<a href=""/wiki/Melo,_Uruguay"" title=""Melo, Uruguay"">Melo</a>,<a href=""/wiki/Cerro_Largo_Department"" title=""Cerro Largo Department"">Cerro Largo Department</a>","<span data-sort-value=""000000001967-06-14-0000"" style=""white-space:nowrap"">14 June 1967</span>"
+"<a href=""/wiki/Australia"" title=""Australia"">Australia</a>","<td>−23.0 °C (−9.4 °F)
+</td>","<a href=""/wiki/Charlotte_Pass,_New_South_Wales"" title=""Charlotte Pass, New South Wales"">Charlotte Pass, New South Wales</a>","<span data-sort-value=""000000001994-06-29-0000"" style=""white-space:nowrap"">29 June 1994</span>"
+"<a href=""/wiki/United_States"" title=""United States"">United States</a>,<a href=""/wiki/Hawaii"" title=""Hawaii"">Hawaii</a>","<td>−11.1 °C (12.0 °F)
+</td>","<a href=""/wiki/Mauna_Kea"" title=""Mauna Kea"">Mauna Kea</a>,<a href=""/wiki/Hawaii"" title=""Hawaii"">Hawaii</a>","<span data-sort-value=""000000001979-05-17-0000"" style=""white-space:nowrap"">17 May 1979</span>"
+"<a href=""/wiki/New_Zealand"" title=""New Zealand"">New Zealand</a>","<td><i><b>−25.6 °C (−14.1 °F)</b></i>
+</td>","<a href=""/wiki/Ranfurly,_New_Zealand"" title=""Ranfurly, New Zealand"">Ranfurly</a>,<a href=""/wiki/Central_Otago"" title=""Central Otago"">Central Otago</a>","<span data-sort-value=""000000001903-07-18-0000"" style=""white-space:nowrap"">18 July 1903</span>"
+"<a href=""/wiki/Samoa"" title=""Samoa"">Samoa</a>","<td>11.1 °C (52.0 °F)
+</td>","<a href=""/w/index.php?title=Afiamalu,_Samoa&amp;action=edit&amp;redlink=1"" class=""new"" title=""Afiamalu, Samoa (page does not exist)"">Afiamalu</a>","<span data-sort-value=""000000001971-09-29-0000"" style=""white-space:nowrap"">29 September 1971</span>"
+"<a href=""/wiki/List_of_vehicle_speed_records"" title=""List of vehicle speed records"">Speed</a>,<a href=""/wiki/Flight_airspeed_record"" title=""Flight airspeed record"">Air</a>,<a href=""/wiki/Transcontinental_flight"" title=""Transcontinental flight"">Transcontinental</a>,<a href=""/wiki/Land_speed_record"" title=""Land speed record"">Land speed record</a>,<a href=""/wiki/Railway_speed_record"" title=""Railway speed record"">Railed</a>,<a href=""/wiki/Production_car_speed_record"" title=""Production car speed record"">Production car</a>,<a href=""/wiki/Motorcycle_land-speed_record"" title=""Motorcycle land-speed record"">Motorcycle land-speed record</a>,<a href=""/wiki/List_of_fastest_production_motorcycles"" title=""List of fastest production motorcycles"">Production motorcycle</a>,<a href=""/wiki/Land_speed_racing#Records_by_class"" title=""Land speed racing"">Wheel-driven</a>,<a href=""/wiki/British_land_speed_record"" title=""British land speed record"">British</a>,<a href=""/wiki/Water_speed_record"" title=""Water speed record"">Water speed record</a>,<a href=""/wiki/Underwater_speed_record"" title=""Underwater speed record"">Underwater</a>,<a href=""/wiki/Speed_sailing_record"" title=""Speed sailing record"">Sailing</a>,<a href=""/wiki/Sound_barrier"" title=""Sound barrier"">Sound barrier</a>,<a href=""/wiki/Speed_of_light"" title=""Speed of light"">Speed of light</a>,<a href=""/wiki/Distance"" title=""Distance"">Distance</a>,<a href=""/wiki/Flight_distance_record"" title=""Flight distance record"">Flight distance record</a>,<a href=""/wiki/Flight_altitude_record"" title=""Flight altitude record"">Flight altitude record</a>,<a href=""/wiki/Bathyscaphe_Trieste"" title=""Bathyscaphe Trieste"">Ocean depth record</a>,<a href=""/wiki/Flight_endurance_record"" title=""Flight endurance record"">Flight endurance record</a>,<a href=""/wiki/K%C3%A1rm%C3%A1n_line"" title=""Kármán line"">Boundary of space</a>,<a href=""/wiki/List_of_spaceflight_records"" title=""List of spaceflight records"">Spaceflight records</a>,<a href=""/wiki/F%C3%A9d%C3%A9ration_A%C3%A9ronautique_Internationale#Some_of_the_records"" title=""Fédération Aéronautique Internationale"">FAI records</a>","<td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px""><div style=""padding:0em 0.25em"">
+<ul><li><a href=""/wiki/Flight_airspeed_record"" title=""Flight airspeed record"">Air</a></li>
+<li><a href=""/wiki/Transcontinental_flight"" title=""Transcontinental flight"">Transcontinental</a></li>
+<li><a href=""/wiki/Land_speed_record"" title=""Land speed record"">Land speed record</a></li>
+<li><a href=""/wiki/Railway_speed_record"" title=""Railway speed record"">Railed</a></li>
+<li><a href=""/wiki/Production_car_speed_record"" title=""Production car speed record"">Production car</a></li>
+<li><a href=""/wiki/Motorcycle_land-speed_record"" title=""Motorcycle land-speed record"">Motorcycle land-speed record</a></li>
+<li><a href=""/wiki/List_of_fastest_production_motorcycles"" title=""List of fastest production motorcycles"">Production motorcycle</a></li>
+<li><a href=""/wiki/Land_speed_racing#Records_by_class"" title=""Land speed racing"">Wheel-driven</a></li>
+<li><a href=""/wiki/British_land_speed_record"" title=""British land speed record"">British</a></li>
+<li><a href=""/wiki/Water_speed_record"" title=""Water speed record"">Water speed record</a></li>
+<li><a href=""/wiki/Underwater_speed_record"" title=""Underwater speed record"">Underwater</a></li>
+<li><a href=""/wiki/Speed_sailing_record"" title=""Speed sailing record"">Sailing</a></li>
+<li><a href=""/wiki/Sound_barrier"" title=""Sound barrier"">Sound barrier</a></li>
+<li><a href=""/wiki/Speed_of_light"" title=""Speed of light"">Speed of light</a></li></ul>
+</div></td>","<a href=""/wiki/Flight_distance_record"" title=""Flight distance record"">Flight distance record</a>,<a href=""/wiki/Flight_altitude_record"" title=""Flight altitude record"">Flight altitude record</a>,<a href=""/wiki/Bathyscaphe_Trieste"" title=""Bathyscaphe Trieste"">Ocean depth record</a>,<a href=""/wiki/Flight_endurance_record"" title=""Flight endurance record"">Flight endurance record</a>,<a href=""/wiki/K%C3%A1rm%C3%A1n_line"" title=""Kármán line"">Boundary of space</a>",
