@@ -25,7 +25,7 @@ https://developer.twitter.com/en/docs
 
 Use twitter API to compile tweets about *"climate change" and "corona virus"*
 
-- Find correlation between the two recent events
+Find correlation between the two recent events
 http://twitter.com/search?q=climate%20change%20coronavirus&src=typeahead_click
 
 
