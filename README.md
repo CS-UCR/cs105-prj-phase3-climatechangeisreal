@@ -102,11 +102,11 @@ The data gathered from this is all in tweets.txt
 
 # Phase 2 - EDA 
 
-# Twitter API
+**Twitter API**
 
 From the twitter API, I was able to gather data by making a query that searches for tweets about "climate change" and "corona virus". From the API, I was able to gather tweets. However, there were restrictions to how many tweets I am able to gather per day, so to compile a large set of data, I made gathered 100 tweets per day and per it all into a separate file. From the tweets.txt file, the data compiled is hard to read and have irrelevant data that we did not need. Using EDA cleaning, I narrowed down my dataset and created a dataframe with attributes that I was going to access on: id, username, location, date, and more that is customizable to the fitting. 
 
-# Phase 3
+# Phase 3 - Data Anaylsis
 
 Itzel:
 
