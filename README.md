@@ -8,19 +8,23 @@ Itzel Gonzalez: 861304050
 # Datasets
 
 Sentiment of Climate Change
+
 https://data.world/crowdflower/sentiment-of-climate-change
 We will obtain this data set by downloading 
 
 
 Sentiment Analysis – Global Warming/Climate Change
+
 https://www.figure-eight.com/data-for-everyone/
 We will obtain this data set by downloading 
 
 
 Use **Twitter API** to use their data and compile tweets
+
 https://developer.twitter.com/en/docs
 
 Use twitter API to compile tweets about *"climate change" and "corona virus"*
+
 - Find correlation between the two recent events
 http://twitter.com/search?q=climate%20change%20coronavirus&src=typeahead_click
 
@@ -31,6 +35,7 @@ Geo - Place information
 
 We will obtain information through  API download
 Riverside/Inland Empire Area Climate Data
+
 https://data.countyofriverside.us
 
 # Phase 1
