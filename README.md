@@ -90,7 +90,7 @@ We use:
 to output csv file with all our data.
 
 
-# Tweepy
+**Tweepy**
 
 A python library that allows one to obtains tweets from Twitter API. To use this library, you would need a twitter developer account and python in order to install tweepy.
 
