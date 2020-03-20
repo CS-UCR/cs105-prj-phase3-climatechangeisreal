@@ -90,17 +90,18 @@ We use:
 to output csv file with all our data.
 
 
+# Phase 2 - EDA 
+
+
 **Tweepy**
+
+`pip install tweepy`
 
 A python library that allows one to obtains tweets from Twitter API. To use this library, you would need a twitter developer account and python in order to install tweepy.
 
 Once we have this, we make a Twitter application that will be used to interface with Python code we will write, and allow us to stream and process live tweets. After creating the Twitter application, we will leverage the "tweepy" module to stream the tweets.
 
 The data gathered from this is all in tweets.txt
-
-`pip install tweepy`
-
-# Phase 2 - EDA 
 
 **Twitter API**
 
