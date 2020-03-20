@@ -33,6 +33,8 @@ We will obtain information through  API download
 Riverside/Inland Empire Area Climate Data
 https://data.countyofriverside.us
 
+# Phase 1
+
 # Scrapy Web Crawler
 
 `<pip install Scrapy>`
@@ -83,5 +85,33 @@ We use:
 to output csv file with all our data.
 
 
+# Tweepy
 
+A python library that allows one to obtains tweets from Twitter API. To use this library, you would need a twitter developer account and python in order to install tweepy.
+
+Once we have this, we make a Twitter application that will be used to interface with Python code we will write, and allow us to stream and process live tweets. After creating the Twitter application, we will leverage the "tweepy" module to stream the tweets.
+
+The data gathered from this is all in tweets.txt
+
+`pip install tweepy`
+
+# Phase 2 - EDA 
+
+# Twitter API
+
+From the twitter API, I was able to gather data by making a query that searches for tweets about "climate change" and "corona virus". From the API, I was able to gather tweets. However, there were restrictions to how many tweets I am able to gather per day, so to compile a large set of data, I made gathered 100 tweets per day and per it all into a separate file. From the tweets.txt file, the data compiled is hard to read and have irrelevant data that we did not need. Using EDA cleaning, I narrowed down my dataset and created a dataframe with attributes that I was going to access on: id, username, location, date, and more that is customizable to the fitting. 
+
+# Phase 3
+
+Itzel:
+
+**Hazel** 
+
+In this phase, I assess the data and used what we were able to learn in class such as making visualizations and make predictions using machine learning (linear regression). From the data, I was able to make a time series graph that plot the number of times people talked about climate change and the the corona virus. Using data gathered from three separate days, there was a growth to the amount of people that talked about the virus and climate change. 
+
+Another feature I added is sentiment analysis on the data. A tweet will be given a score ranging from (-1, 0, 1). The ranges corresponds to negative, neutral, and positive. This allows me to make a histogram to show the sentiment data and compare the results. 
+
+**Machine Learning (Make Predictions on Sentiment)**
+
+With the newly added feature about sentiment on the tweets, I am able to make predictions using machine learning. The sklearn library from python allows one to use functions like LinearRegression to train my data and make predictions. The test data I use are tweets that I searched for on a separate day. It is able to predict whether the tweets are negative, neutral, or positive. 
 
