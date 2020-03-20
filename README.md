@@ -40,7 +40,7 @@ https://data.countyofriverside.us
 
 # Phase 1
 
-# Scrapy Web Crawler
+**Scrapy Web Crawler**
 
 `<pip install Scrapy>`
 
