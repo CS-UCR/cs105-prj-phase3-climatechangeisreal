@@ -61,6 +61,26 @@ scrapy startproject webScraper
 We then create a Spider class that will extract data by following links in the initial requested page, then it will parse the downloaded page content.
 
 
+Using Scrapy
+We set up a scrapy project under a directory called Scraper
+`scrapy startproject Scraper`
+
+Go to:
+`cd ItzelsScraper/tutorial/`
+
+Type:
+`scrapy shell "https://en.wikipedia.org/wiki/List_of_weather_records"`
+
+
+This command gives you access to an interactive scraper that will help you scrape individual elements of the page
+Now you need to find which commands will give you the right data
+Using this shell we will find the specific elements that contain our data, 
+then we create python script that isolates the data. Found Here: `ItzelsScraper/tutorial/tutorial/spiders/temp_spider.py/`
+
+We use:
+`scrapy crawl climates -o climates.csv`
+
+to output csv file with all our data.
 
 
 
